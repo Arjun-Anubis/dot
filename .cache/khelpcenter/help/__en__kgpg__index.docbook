@@ -1,0 +1,48 @@
+<?xml version='1.0'?>
+<table-of-contents>
+ <chapter>
+  <title>Introduction</title>
+  <anchor>introduction</anchor>
+ </chapter>
+ <chapter>
+  <title>Getting Started</title>
+  <anchor>getting-started</anchor>
+ </chapter>
+ <chapter>
+  <title>Using KGpg</title>
+  <anchor>using-kgpg</anchor>
+  <section>
+   <title>Generating a key</title>
+   <anchor>key-generation</anchor>
+  </section>
+  <section>
+   <title>Revoking a key</title>
+   <anchor>key-revoke</anchor>
+  </section>
+  <section>
+   <title>Encrypting Your Data</title>
+   <anchor>encryption</anchor>
+  </section>
+  <section>
+   <title>Decrypting Your Data</title>
+   <anchor>decryption</anchor>
+  </section>
+  <section>
+   <title>Key Management</title>
+   <anchor>manage</anchor>
+  </section>
+  <section>
+   <title>Working with key servers</title>
+   <anchor>keyserver</anchor>
+  </section>
+  <section>
+   <title>Configuring KGpg</title>
+   <anchor>options</anchor>
+  </section>
+ </chapter>
+ <chapter>
+  <title>Credits and License</title>
+  <anchor>credits</anchor>
+ </chapter>
+ <!--1624430902-->
+</table-of-contents>

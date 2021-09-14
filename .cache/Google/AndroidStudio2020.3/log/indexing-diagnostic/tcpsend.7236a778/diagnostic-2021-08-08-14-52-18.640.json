@@ -1,0 +1,4463 @@
+{
+  "appInfo" : {
+    "build" : "203.7717.56.2031.7583922",
+    "buildDate" : "Tue, 27 Jul 2021 01:29:00 +0530",
+    "productCode" : "AI",
+    "generated" : "Sun, 8 Aug 2021 14:52:18 +0530",
+    "os" : "Linux 5.11.0-25-generic",
+    "runtime" : "JetBrains s.r.o. 11.0.10 11.0.10+0-b96-7249189"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 1342177280,
+    "numberOfProcessors" : 4,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "TCP SEND",
+    "numberOfFileProviders" : 62,
+    "totalNumberOfFiles" : 70423,
+    "totalNumberOfUpToDateFiles" : 19096,
+    "times" : {
+      "totalUpdatingTime" : "33 s 167 ms",
+      "indexingTime" : "27 s 233 ms",
+      "pushPropertiesTime" : "103 ms",
+      "updatingStart" : "Sun, 8 Aug 2021 14:51:45 +0530",
+      "updatingEnd" : "Sun, 8 Aug 2021 14:52:18 +0530",
+      "wasInterrupted" : false
+    },
+    "numberOfIndexingThreads" : 3,
+    "totalStatsPerFileType" : [ {
+      "fileType" : "CLASS",
+      "partOfTotalIndexingTime" : "55.3%",
+      "partOfTotalContentLoadingTime" : "55.8%",
+      "totalNumberOfFiles" : 42541,
+      "totalFilesSize" : "164.46 MB",
+      "indexingSpeed" : "8.03 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "JDK 11",
+        "numberOfFiles" : 29701,
+        "totalFilesSize" : "131.86 MB",
+        "partOfTotalIndexingTimeOfThisFileType" : "60.9%"
+      }, {
+        "providerName" : "org.jetbrains.kotlin.idea.core.script.dependencies.KotlinScriptDependenciesIndexableSetContributor@3ab695d4",
+        "numberOfFiles" : 3521,
+        "totalFilesSize" : "9.28 MB",
+        "partOfTotalIndexingTimeOfThisFileType" : "12.6%"
+      }, {
+        "providerName" : "Android SDK Android API 31 Platform",
+        "numberOfFiles" : 5073,
+        "totalFilesSize" : "10.14 MB",
+        "partOfTotalIndexingTimeOfThisFileType" : "11.6%"
+      }, {
+        "providerName" : "Library Gradle: junit:junit:4.13.2",
+        "numberOfFiles" : 350,
+        "totalFilesSize" : "716.72 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "3.2%"
+      }, {
+        "providerName" : "Library Gradle: com.google.android.material:material:1.3.0@aar",
+        "numberOfFiles" : 769,
+        "totalFilesSize" : "2.78 MB",
+        "partOfTotalIndexingTimeOfThisFileType" : "2.4%"
+      }, {
+        "providerName" : "Library Gradle: androidx.test.espresso:espresso-core:3.3.0@aar",
+        "numberOfFiles" : 610,
+        "totalFilesSize" : "1.27 MB",
+        "partOfTotalIndexingTimeOfThisFileType" : "1.5%"
+      }, {
+        "providerName" : "Library Gradle: junit:junit:4.12",
+        "numberOfFiles" : 286,
+        "totalFilesSize" : "598.06 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "1.2%"
+      }, {
+        "providerName" : "Library Gradle: androidx.core:core:1.3.1@aar",
+        "numberOfFiles" : 456,
+        "totalFilesSize" : "1.47 MB",
+        "partOfTotalIndexingTimeOfThisFileType" : "1.2%"
+      }, {
+        "providerName" : "Library Gradle: androidx.appcompat:appcompat:1.2.0@aar",
+        "numberOfFiles" : 334,
+        "totalFilesSize" : "1.41 MB",
+        "partOfTotalIndexingTimeOfThisFileType" : "1.1%"
+      }, {
+        "providerName" : "Library Gradle: androidx.recyclerview:recyclerview:1.1.0@aar",
+        "numberOfFiles" : 175,
+        "totalFilesSize" : "783.45 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "< 1%"
+      } ]
+    }, {
+      "fileType" : "XML",
+      "partOfTotalIndexingTime" : "33.6%",
+      "partOfTotalContentLoadingTime" : "36.7%",
+      "totalNumberOfFiles" : 6456,
+      "totalFilesSize" : "40.64 MB",
+      "indexingSpeed" : "3.26 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Android SDK Android API 31 Platform",
+        "numberOfFiles" : 5699,
+        "totalFilesSize" : "38.66 MB",
+        "partOfTotalIndexingTimeOfThisFileType" : "85.7%"
+      }, {
+        "providerName" : "Library Gradle: com.google.android.material:material:1.3.0@aar",
+        "numberOfFiles" : 333,
+        "totalFilesSize" : "981.72 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "6.4%"
+      }, {
+        "providerName" : "Library Gradle: androidx.appcompat:appcompat:1.2.0@aar",
+        "numberOfFiles" : 258,
+        "totalFilesSize" : "708.46 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "4.5%"
+      }, {
+        "providerName" : "Module 'TCP_SEND.app'",
+        "numberOfFiles" : 10,
+        "totalFilesSize" : "10.73 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "2.2%"
+      }, {
+        "providerName" : "Library Gradle: androidx.core:core:1.3.1@aar",
+        "numberOfFiles" : 106,
+        "totalFilesSize" : "60.8 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "< 1%"
+      }, {
+        "providerName" : "JDK 11",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : "132.2 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "< 1%"
+      }, {
+        "providerName" : "Library Gradle: androidx.constraintlayout:constraintlayout:2.0.1@aar",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "37.28 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "< 1%"
+      }, {
+        "providerName" : "Library Gradle: com.squareup:javawriter:2.1.1",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "2.88 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "< 1%"
+      }, {
+        "providerName" : "Library Gradle: androidx.appcompat:appcompat-resources:1.2.0@aar",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "6.51 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "< 1%"
+      }, {
+        "providerName" : "Library Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "6.97 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "< 1%"
+      } ]
+    }, {
+      "fileType" : "JAVA",
+      "partOfTotalIndexingTime" : "7.3%",
+      "partOfTotalContentLoadingTime" : "5.7%",
+      "totalNumberOfFiles" : 1720,
+      "totalFilesSize" : "14.57 MB",
+      "indexingSpeed" : "5.4 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'TCP_SEND.app'",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "1.46 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "19.7%"
+      }, {
+        "providerName" : "Library Gradle: com.google.android.material:material:1.3.0@aar",
+        "numberOfFiles" : 288,
+        "totalFilesSize" : "2.87 MB",
+        "partOfTotalIndexingTimeOfThisFileType" : "16.8%"
+      }, {
+        "providerName" : "Library Gradle: androidx.core:core:1.3.1@aar",
+        "numberOfFiles" : 208,
+        "totalFilesSize" : "2.55 MB",
+        "partOfTotalIndexingTimeOfThisFileType" : "12.6%"
+      }, {
+        "providerName" : "Library Gradle: junit:junit:4.13.2",
+        "numberOfFiles" : 219,
+        "totalFilesSize" : "666.03 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "10.3%"
+      }, {
+        "providerName" : "Library Gradle: androidx.test.espresso:espresso-core:3.3.0@aar",
+        "numberOfFiles" : 121,
+        "totalFilesSize" : "707.18 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "8.4%"
+      }, {
+        "providerName" : "Library Gradle: androidx.appcompat:appcompat:1.2.0@aar",
+        "numberOfFiles" : 119,
+        "totalFilesSize" : "1.88 MB",
+        "partOfTotalIndexingTimeOfThisFileType" : "6.7%"
+      }, {
+        "providerName" : "Library Gradle: androidx.recyclerview:recyclerview:1.1.0@aar",
+        "numberOfFiles" : 38,
+        "totalFilesSize" : "1.43 MB",
+        "partOfTotalIndexingTimeOfThisFileType" : "4.3%"
+      }, {
+        "providerName" : "Library Gradle: junit:junit:4.12",
+        "numberOfFiles" : 195,
+        "totalFilesSize" : "570.17 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "4.3%"
+      }, {
+        "providerName" : "Library Gradle: androidx.test:runner:1.3.0@aar",
+        "numberOfFiles" : 74,
+        "totalFilesSize" : "336.07 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "2.2%"
+      }, {
+        "providerName" : "Library Gradle: androidx.transition:transition:1.2.0@aar",
+        "numberOfFiles" : 62,
+        "totalFilesSize" : "471.44 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "1.8%"
+      } ]
+    }, {
+      "fileType" : "JavaScript",
+      "partOfTotalIndexingTime" : "1.3%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 26,
+      "totalFilesSize" : "1.26 MB",
+      "indexingSpeed" : "2.53 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "JDK 11",
+        "numberOfFiles" : 25,
+        "totalFilesSize" : "1.25 MB",
+        "partOfTotalIndexingTimeOfThisFileType" : "98.4%"
+      }, {
+        "providerName" : "org.jetbrains.kotlin.idea.core.script.dependencies.KotlinScriptDependenciesIndexableSetContributor@3ab695d4",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "5.25 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "1.6%"
+      } ]
+    }, {
+      "fileType" : "Properties",
+      "partOfTotalIndexingTime" : "1.1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 211,
+      "totalFilesSize" : "1.69 MB",
+      "indexingSpeed" : "4.22 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "JDK 11",
+        "numberOfFiles" : 197,
+        "totalFilesSize" : "1.57 MB",
+        "partOfTotalIndexingTimeOfThisFileType" : "87.4%"
+      }, {
+        "providerName" : "org.jetbrains.kotlin.idea.core.script.dependencies.KotlinScriptDependenciesIndexableSetContributor@3ab695d4",
+        "numberOfFiles" : 10,
+        "totalFilesSize" : "117.22 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "8.5%"
+      }, {
+        "providerName" : "Library Gradle: com.squareup:javawriter:2.1.1",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "107 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "2.3%"
+      }, {
+        "providerName" : "Module 'TCP_SEND'",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "1.75 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "1.8%"
+      } ]
+    }, {
+      "fileType" : "HTML",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 98,
+      "totalFilesSize" : "82.57 kB",
+      "indexingSpeed" : "321.12 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Android SDK Android API 31 Platform",
+        "numberOfFiles" : 90,
+        "totalFilesSize" : "81.6 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "76.8%"
+      }, {
+        "providerName" : "Library Gradle: org.hamcrest:hamcrest-core:1.3",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "356 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "18.4%"
+      }, {
+        "providerName" : "Library Gradle: org.hamcrest:hamcrest-library:1.3",
+        "numberOfFiles" : 6,
+        "totalFilesSize" : "606 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "4.8%"
+      } ]
+    }, {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 184,
+      "totalFilesSize" : "640.15 kB",
+      "indexingSpeed" : "12.39 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Android SDK Android API 31 Platform",
+        "numberOfFiles" : 8,
+        "totalFilesSize" : "428.91 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "36.0%"
+      }, {
+        "providerName" : "JDK 11",
+        "numberOfFiles" : 130,
+        "totalFilesSize" : "154.4 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "35.5%"
+      }, {
+        "providerName" : "Library Gradle: junit:junit:4.13.2",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "23.04 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "20.4%"
+      }, {
+        "providerName" : "org.jetbrains.kotlin.idea.core.script.dependencies.KotlinScriptDependenciesIndexableSetContributor@3ab695d4",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "5.9 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "1.1%"
+      }, {
+        "providerName" : "Library Gradle: junit:junit:4.12",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "23.04 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "1.1%"
+      }, {
+        "providerName" : "Library Gradle: org.hamcrest:hamcrest-core:1.3",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "1.51 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "< 1%"
+      }, {
+        "providerName" : "Library Gradle: androidx.core:core:1.3.1@aar",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : "156 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "< 1%"
+      }, {
+        "providerName" : "Library Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "< 1%"
+      }, {
+        "providerName" : "Library Gradle: androidx.annotation:annotation-experimental:1.0.0@aar",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "< 1%"
+      }, {
+        "providerName" : "Library Gradle: org.hamcrest:hamcrest-integration:1.3",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "1.51 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "< 1%"
+      } ]
+    }, {
+      "fileType" : "Groovy",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : "1.69 kB",
+      "indexingSpeed" : "40.51 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'TCP_SEND.app'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "946 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "69.2%"
+      }, {
+        "providerName" : "Module 'TCP_SEND'",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "741 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "30.8%"
+      } ]
+    }, {
+      "fileType" : "kotlin_module",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "3.15 kB",
+      "indexingSpeed" : "83.69 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "org.jetbrains.kotlin.idea.core.script.dependencies.KotlinScriptDependenciesIndexableSetContributor@3ab695d4",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "3.15 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "Shrinker Config File",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : "1.43 kB",
+      "indexingSpeed" : "43.2 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'TCP_SEND.app'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "750 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "98.8%"
+      }, {
+        "providerName" : "Library Gradle: androidx.annotation:annotation:1.1.0",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "678 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "1.2%"
+      } ]
+    }, {
+      "fileType" : "CSS",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 8,
+      "totalFilesSize" : "72.15 kB",
+      "indexingSpeed" : "2.21 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "JDK 11",
+        "numberOfFiles" : 6,
+        "totalFilesSize" : "69.46 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "68.4%"
+      }, {
+        "providerName" : "org.jetbrains.kotlin.idea.core.script.dependencies.KotlinScriptDependenciesIndexableSetContributor@3ab695d4",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "2.69 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "31.6%"
+      } ]
+    }, {
+      "fileType" : "GitIgnore file",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : "231 B",
+      "indexingSpeed" : "7.77 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'TCP_SEND.app'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "97.8%"
+      }, {
+        "providerName" : "Module 'TCP_SEND'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "225 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "2.2%"
+      } ]
+    }, {
+      "fileType" : "ObjectiveC",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "5.77 kB",
+      "indexingSpeed" : "298.25 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'TCP_SEND'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "5.77 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "textmate",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "2.76 kB",
+      "indexingSpeed" : "271.02 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'TCP_SEND'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "2.76 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "Manifest",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 64,
+      "totalFilesSize" : "4.4 kB",
+      "indexingSpeed" : "579.39 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Library Gradle: junit:junit:4.13.2",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "450 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "12.0%"
+      }, {
+        "providerName" : "Library Gradle: androidx.transition:transition:1.2.0@aar",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "10.5%"
+      }, {
+        "providerName" : "Library Gradle: junit:junit:4.12",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "380 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "7.0%"
+      }, {
+        "providerName" : "Library Gradle: org.hamcrest:hamcrest-core:1.3",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "514 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "4.4%"
+      }, {
+        "providerName" : "Library Gradle: org.hamcrest:hamcrest-library:1.3",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "520 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "4.2%"
+      }, {
+        "providerName" : "Library Gradle: org.hamcrest:hamcrest-integration:1.3",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "528 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "4.2%"
+      }, {
+        "providerName" : "Library Gradle: androidx.recyclerview:recyclerview:1.1.0@aar",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "4.0%"
+      }, {
+        "providerName" : "Library Gradle: com.squareup:javawriter:2.1.1",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "248 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "3.8%"
+      }, {
+        "providerName" : "org.jetbrains.kotlin.idea.core.script.dependencies.KotlinScriptDependenciesIndexableSetContributor@3ab695d4",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : "344 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "3.8%"
+      }, {
+        "providerName" : "Android SDK Android API 31 Platform",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "45 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "3.3%"
+      } ]
+    }, {
+      "fileType" : "SPI",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 7,
+      "totalFilesSize" : "1.19 kB",
+      "indexingSpeed" : "1.42 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "org.jetbrains.kotlin.idea.core.script.dependencies.KotlinScriptDependenciesIndexableSetContributor@3ab695d4",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : "935 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "62.6%"
+      }, {
+        "providerName" : "JDK 11",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "252 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "37.4%"
+      } ]
+    }, {
+      "fileType" : "DTD",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "2.96 kB",
+      "indexingSpeed" : "4.33 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "JDK 11",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "2.96 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : "53.2%",
+      "totalNumberOfFiles" : 49312,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "206.88 MB",
+      "indexingSpeed" : "10.5 MB/s"
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : "18.0%",
+      "totalNumberOfFiles" : 8785,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "58.98 MB",
+      "indexingSpeed" : "8.85 MB/s"
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : "8.7%",
+      "totalNumberOfFiles" : 8785,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "58.98 MB",
+      "indexingSpeed" : "18.4 MB/s"
+    }, {
+      "indexId" : "bytecodeAnalysis",
+      "partOfTotalIndexingTime" : "6.0%",
+      "totalNumberOfFiles" : 42541,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "164.46 MB",
+      "indexingSpeed" : "74.38 MB/s"
+    }, {
+      "indexId" : "fileIncludes",
+      "partOfTotalIndexingTime" : "3.2%",
+      "totalNumberOfFiles" : 4975,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "38.84 MB",
+      "indexingSpeed" : "32.69 MB/s"
+    }, {
+      "indexId" : "xmlProperties",
+      "partOfTotalIndexingTime" : "1.5%",
+      "totalNumberOfFiles" : 6455,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "40.64 MB",
+      "indexingSpeed" : "71.78 MB/s"
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+      "partOfTotalIndexingTime" : "1.5%",
+      "totalNumberOfFiles" : 42541,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "164.46 MB",
+      "indexingSpeed" : "295.56 MB/s"
+    }, {
+      "indexId" : "DomFileIndex",
+      "partOfTotalIndexingTime" : "1.5%",
+      "totalNumberOfFiles" : 6456,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "40.64 MB",
+      "indexingSpeed" : "73.51 MB/s"
+    }, {
+      "indexId" : "BindingXmlIndex",
+      "partOfTotalIndexingTime" : "1.5%",
+      "totalNumberOfFiles" : 837,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "1.54 MB",
+      "indexingSpeed" : "2.79 MB/s"
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+      "partOfTotalIndexingTime" : "1.4%",
+      "totalNumberOfFiles" : 42541,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "164.46 MB",
+      "indexingSpeed" : "311 MB/s"
+    }, {
+      "indexId" : "RelaxSymbolIndex",
+      "partOfTotalIndexingTime" : "1.3%",
+      "totalNumberOfFiles" : 4975,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "38.84 MB",
+      "indexingSpeed" : "79.44 MB/s"
+    }, {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 24,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "25.14 kB",
+      "indexingSpeed" : "99.89 kB/s"
+    }, {
+      "indexId" : "android.ndk.jni.nativemethodindex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 3,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "1.46 kB",
+      "indexingSpeed" : "6.02 kB/s"
+    }, {
+      "indexId" : "java.null.method.argument",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 3,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "1.46 kB",
+      "indexingSpeed" : "12.03 kB/s"
+    }, {
+      "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 41,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "303.38 kB",
+      "indexingSpeed" : "2.6 MB/s"
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinModuleMappingIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "3.15 kB",
+      "indexingSpeed" : "86.92 kB/s"
+    }, {
+      "indexId" : "FrameworkDetectionIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 4971,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "38.71 MB",
+      "indexingSpeed" : "1.3 GB/s"
+    }, {
+      "indexId" : "html5.custom.attributes.index",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 46,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "41.69 kB",
+      "indexingSpeed" : "1.67 MB/s"
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJsMetadataVersionIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 26,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "1.26 MB",
+      "indexingSpeed" : "112.76 MB/s"
+    }, {
+      "indexId" : "XmlNamespaces",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "7.47 kB",
+      "indexingSpeed" : "3.47 MB/s"
+    }, {
+      "indexId" : "java.fun.expression",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 3,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "1.46 kB",
+      "indexingSpeed" : "931.11 kB/s"
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 64,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "4.4 kB",
+      "indexingSpeed" : "2.98 MB/s"
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinJvmModuleAnnotationsIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "3.15 kB",
+      "indexingSpeed" : "2.25 MB/s"
+    }, {
+      "indexId" : "java.binary.plus.expression",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 3,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "1.46 kB",
+      "indexingSpeed" : "3.17 MB/s"
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "JDK 11",
+      "totalNumberOfFiles" : 30067,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "10 s 614 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 29701,
+        "totalFilesSize" : "131.86 MB",
+        "partOfTotalIndexingTime" : "93.2%",
+        "partOfTotalContentLoadingTime" : "97.6%"
+      }, {
+        "fileType" : "JavaScript",
+        "numberOfFiles" : 25,
+        "totalFilesSize" : "1.25 MB",
+        "partOfTotalIndexingTime" : "3.7%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "Properties",
+        "numberOfFiles" : 197,
+        "totalFilesSize" : "1.57 MB",
+        "partOfTotalIndexingTime" : "2.6%",
+        "partOfTotalContentLoadingTime" : "1.2%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : "132.2 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "CSS",
+        "numberOfFiles" : 6,
+        "totalFilesSize" : "69.46 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 130,
+        "totalFilesSize" : "154.4 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "DTD",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "2.96 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "SPI",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "252 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 29902,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "78.7%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 29701,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "10.4%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 366,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "4.5%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "numberOfFiles" : 29701,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.7%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+        "numberOfFiles" : 29701,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.6%"
+      } ],
+      "fastIndexers" : [ "DomFileIndex", "RelaxSymbolIndex", "Trigram.Index", "XmlNamespaces", "fileIncludes", "org.jetbrains.kotlin.idea.versions.KotlinJsMetadataVersionIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Android SDK Android API 31 Platform",
+      "totalNumberOfFiles" : 10871,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "9 s 845 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "XML",
+        "numberOfFiles" : 5699,
+        "totalFilesSize" : "38.66 MB",
+        "partOfTotalIndexingTime" : "80.4%",
+        "partOfTotalContentLoadingTime" : "85.8%"
+      }, {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 5073,
+        "totalFilesSize" : "10.14 MB",
+        "partOfTotalIndexingTime" : "17.9%",
+        "partOfTotalContentLoadingTime" : "13.2%"
+      }, {
+        "fileType" : "HTML",
+        "numberOfFiles" : 90,
+        "totalFilesSize" : "81.6 kB",
+        "partOfTotalIndexingTime" : "1.5%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 8,
+        "totalFilesSize" : "428.91 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "45 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 5798,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "33.4%"
+      }, {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 10862,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "28.8%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 5798,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "13.7%"
+      }, {
+        "indexId" : "fileIncludes",
+        "numberOfFiles" : 4219,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "7.4%"
+      }, {
+        "indexId" : "xmlProperties",
+        "numberOfFiles" : 5699,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "3.5%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "numberOfFiles" : 5699,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "3.4%"
+      }, {
+        "indexId" : "BindingXmlIndex",
+        "numberOfFiles" : 712,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "3.2%"
+      }, {
+        "indexId" : "RelaxSymbolIndex",
+        "numberOfFiles" : 4219,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.9%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 5073,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.1%"
+      } ],
+      "fastIndexers" : [ "FrameworkDetectionIndex", "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME", "html5.custom.attributes.index", "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex" ]
+    }, {
+      "providerName" : "org.jetbrains.kotlin.idea.core.script.dependencies.KotlinScriptDependenciesIndexableSetContributor@3ab695d4",
+      "totalNumberOfFiles" : 3545,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "1 s 625 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 3521,
+        "totalFilesSize" : "9.28 MB",
+        "partOfTotalIndexingTime" : "96.6%",
+        "partOfTotalContentLoadingTime" : "97.6%"
+      }, {
+        "fileType" : "kotlin_module",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "3.15 kB",
+        "partOfTotalIndexingTime" : "1.4%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "Properties",
+        "numberOfFiles" : 10,
+        "totalFilesSize" : "117.22 kB",
+        "partOfTotalIndexingTime" : "1.3%",
+        "partOfTotalContentLoadingTime" : "2.1%"
+      }, {
+        "fileType" : "CSS",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "2.69 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "JavaScript",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "5.25 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "5.9 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "SPI",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : "935 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : "344 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 3531,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "84.0%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 3521,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "8.6%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+        "numberOfFiles" : 3521,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.6%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "numberOfFiles" : 3521,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.2%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinModuleMappingIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.4%"
+      } ],
+      "fastIndexers" : [ "IdIndex", "Trigram.Index", "org.jetbrains.kotlin.idea.versions.KotlinJsMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinJvmModuleAnnotationsIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex" ]
+    }, {
+      "providerName" : "Library Gradle: com.google.android.material:material:1.3.0@aar",
+      "totalNumberOfFiles" : 1392,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "1 s 130 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "XML",
+        "numberOfFiles" : 333,
+        "totalFilesSize" : "981.72 kB",
+        "partOfTotalIndexingTime" : "46.0%",
+        "partOfTotalContentLoadingTime" : "50.0%"
+      }, {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 769,
+        "totalFilesSize" : "2.78 MB",
+        "partOfTotalIndexingTime" : "27.9%",
+        "partOfTotalContentLoadingTime" : "26.2%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 288,
+        "totalFilesSize" : "2.87 MB",
+        "partOfTotalIndexingTime" : "26.2%",
+        "partOfTotalContentLoadingTime" : "23.7%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 1102,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "31.5%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 623,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "26.2%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 623,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "20.8%"
+      }, {
+        "indexId" : "BindingXmlIndex",
+        "numberOfFiles" : 77,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "5.0%"
+      }, {
+        "indexId" : "fileIncludes",
+        "numberOfFiles" : 333,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "4.7%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "numberOfFiles" : 333,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "3.2%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 769,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.8%"
+      }, {
+        "indexId" : "RelaxSymbolIndex",
+        "numberOfFiles" : 333,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.4%"
+      }, {
+        "indexId" : "xmlProperties",
+        "numberOfFiles" : 333,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.1%"
+      } ],
+      "fastIndexers" : [ "FrameworkDetectionIndex", "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME", "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.appcompat:appcompat:1.2.0@aar",
+      "totalNumberOfFiles" : 713,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "652 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "XML",
+        "numberOfFiles" : 258,
+        "totalFilesSize" : "708.46 kB",
+        "partOfTotalIndexingTime" : "58.2%",
+        "partOfTotalContentLoadingTime" : "60.6%"
+      }, {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 334,
+        "totalFilesSize" : "1.41 MB",
+        "partOfTotalIndexingTime" : "23.1%",
+        "partOfTotalContentLoadingTime" : "19.5%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 119,
+        "totalFilesSize" : "1.88 MB",
+        "partOfTotalIndexingTime" : "18.7%",
+        "partOfTotalContentLoadingTime" : "19.7%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 592,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "31.8%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 379,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "26.0%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 379,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "11.5%"
+      }, {
+        "indexId" : "fileIncludes",
+        "numberOfFiles" : 258,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "10.7%"
+      }, {
+        "indexId" : "xmlProperties",
+        "numberOfFiles" : 258,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "6.9%"
+      }, {
+        "indexId" : "RelaxSymbolIndex",
+        "numberOfFiles" : 258,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "5.2%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "numberOfFiles" : 258,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.9%"
+      }, {
+        "indexId" : "BindingXmlIndex",
+        "numberOfFiles" : 35,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.3%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 334,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.5%"
+      } ],
+      "fastIndexers" : [ "FrameworkDetectionIndex", "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME", "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex" ]
+    }, {
+      "providerName" : "Library Gradle: junit:junit:4.13.2",
+      "totalNumberOfFiles" : 574,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "603 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 350,
+        "totalFilesSize" : "716.72 kB",
+        "partOfTotalIndexingTime" : "69.0%",
+        "partOfTotalContentLoadingTime" : "49.2%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 219,
+        "totalFilesSize" : "666.03 kB",
+        "partOfTotalIndexingTime" : "29.7%",
+        "partOfTotalContentLoadingTime" : "49.9%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "23.04 kB",
+        "partOfTotalIndexingTime" : "1.1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "450 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 350,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "57.8%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 224,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "16.4%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 224,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "14.5%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 350,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "7.4%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+        "numberOfFiles" : 350,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.6%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "numberOfFiles" : 350,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.3%"
+      } ],
+      "fastIndexers" : [ "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.core:core:1.3.1@aar",
+      "totalNumberOfFiles" : 775,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "475 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 208,
+        "totalFilesSize" : "2.55 MB",
+        "partOfTotalIndexingTime" : "53.2%",
+        "partOfTotalContentLoadingTime" : "44.7%"
+      }, {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 456,
+        "totalFilesSize" : "1.47 MB",
+        "partOfTotalIndexingTime" : "37.4%",
+        "partOfTotalContentLoadingTime" : "38.2%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 106,
+        "totalFilesSize" : "60.8 kB",
+        "partOfTotalIndexingTime" : "9.4%",
+        "partOfTotalContentLoadingTime" : "16.8%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : "156 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 562,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "34.5%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 319,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "32.9%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 319,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "24.0%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 456,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "4.3%"
+      }, {
+        "indexId" : "BindingXmlIndex",
+        "numberOfFiles" : 12,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.5%"
+      } ],
+      "fastIndexers" : [ "DomFileIndex", "FrameworkDetectionIndex", "RelaxSymbolIndex", "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME", "fileIncludes", "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Module 'TCP_SEND.app'",
+      "totalNumberOfFiles" : 16,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "376 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "1.46 kB",
+        "partOfTotalIndexingTime" : "59.2%",
+        "partOfTotalContentLoadingTime" : "82.9%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 10,
+        "totalFilesSize" : "10.73 kB",
+        "partOfTotalIndexingTime" : "30.7%",
+        "partOfTotalContentLoadingTime" : "15.3%"
+      }, {
+        "fileType" : "Shrinker Config File",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "750 B",
+        "partOfTotalIndexingTime" : "3.6%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "GitIgnore file",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "3.2%",
+        "partOfTotalContentLoadingTime" : "1.0%"
+      }, {
+        "fileType" : "Groovy",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "946 B",
+        "partOfTotalIndexingTime" : "3.2%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "android.ndk.jni.nativemethodindex",
+        "numberOfFiles" : 3,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "27.1%"
+      }, {
+        "indexId" : "TodoIndex",
+        "numberOfFiles" : 16,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "24.7%"
+      }, {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 14,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "21.3%"
+      }, {
+        "indexId" : "java.null.method.argument",
+        "numberOfFiles" : 3,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "13.6%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 16,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "3.9%"
+      }, {
+        "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "3.6%"
+      }, {
+        "indexId" : "BindingXmlIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.4%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 16,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.4%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "numberOfFiles" : 10,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.2%"
+      }, {
+        "indexId" : "fileIncludes",
+        "numberOfFiles" : 10,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.2%"
+      } ],
+      "fastIndexers" : [ "FrameworkDetectionIndex", "RelaxSymbolIndex", "java.binary.plus.expression", "java.fun.expression", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.test.espresso:espresso-core:3.3.0@aar",
+      "totalNumberOfFiles" : 732,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "345 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 610,
+        "totalFilesSize" : "1.27 MB",
+        "partOfTotalIndexingTime" : "57.8%",
+        "partOfTotalContentLoadingTime" : "72.8%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 121,
+        "totalFilesSize" : "707.18 kB",
+        "partOfTotalIndexingTime" : "42.0%",
+        "partOfTotalContentLoadingTime" : "27.1%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "887 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 611,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "49.1%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 122,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "26.6%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 122,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "15.4%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 610,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "5.9%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "numberOfFiles" : 610,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.7%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+        "numberOfFiles" : 610,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.2%"
+      } ],
+      "fastIndexers" : [ "DomFileIndex", "FrameworkDetectionIndex", "RelaxSymbolIndex", "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME", "fileIncludes", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: junit:junit:4.12",
+      "totalNumberOfFiles" : 486,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "275 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 286,
+        "totalFilesSize" : "598.06 kB",
+        "partOfTotalIndexingTime" : "67.2%",
+        "partOfTotalContentLoadingTime" : "51.5%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 195,
+        "totalFilesSize" : "570.17 kB",
+        "partOfTotalIndexingTime" : "32.5%",
+        "partOfTotalContentLoadingTime" : "47.7%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "23.04 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "380 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 286,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "52.4%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 200,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "18.5%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 200,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "14.3%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 286,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "9.3%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+        "numberOfFiles" : 286,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "4.3%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "numberOfFiles" : 286,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.2%"
+      } ],
+      "fastIndexers" : [ "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.recyclerview:recyclerview:1.1.0@aar",
+      "totalNumberOfFiles" : 217,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "154 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 175,
+        "totalFilesSize" : "783.45 kB",
+        "partOfTotalIndexingTime" : "50.0%",
+        "partOfTotalContentLoadingTime" : "45.9%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 38,
+        "totalFilesSize" : "1.43 MB",
+        "partOfTotalIndexingTime" : "49.2%",
+        "partOfTotalContentLoadingTime" : "52.7%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "2.98 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 177,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "45.4%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 42,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "31.3%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 42,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "18.3%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 175,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "3.3%"
+      } ],
+      "fastIndexers" : [ "DomFileIndex", "FrameworkDetectionIndex", "RelaxSymbolIndex", "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME", "fileIncludes", "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.test:runner:1.3.0@aar",
+      "totalNumberOfFiles" : 214,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "111 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 138,
+        "totalFilesSize" : "361.93 kB",
+        "partOfTotalIndexingTime" : "65.7%",
+        "partOfTotalContentLoadingTime" : "65.9%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 74,
+        "totalFilesSize" : "336.07 kB",
+        "partOfTotalIndexingTime" : "33.7%",
+        "partOfTotalContentLoadingTime" : "33.7%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "880 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "48 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 139,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "51.8%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 76,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "22.4%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 76,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "11.5%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 138,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "7.0%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+        "numberOfFiles" : 138,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "6.1%"
+      } ],
+      "fastIndexers" : [ "DomFileIndex", "FrameworkDetectionIndex", "RelaxSymbolIndex", "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME", "fileIncludes", "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.transition:transition:1.2.0@aar",
+      "totalNumberOfFiles" : 200,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "98 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 134,
+        "totalFilesSize" : "349.24 kB",
+        "partOfTotalIndexingTime" : "63.6%",
+        "partOfTotalContentLoadingTime" : "52.3%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 62,
+        "totalFilesSize" : "471.44 kB",
+        "partOfTotalIndexingTime" : "34.9%",
+        "partOfTotalContentLoadingTime" : "45.3%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "1.44 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "1.4%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 136,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "58.0%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 66,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "23.2%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 66,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "12.7%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 134,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "3.9%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+        "numberOfFiles" : 134,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.2%"
+      } ],
+      "fastIndexers" : [ "DomFileIndex", "FrameworkDetectionIndex", "RelaxSymbolIndex", "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME", "fileIncludes", "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: org.hamcrest:hamcrest-core:1.3",
+      "totalNumberOfFiles" : 88,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "96 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 45,
+        "totalFilesSize" : "93.87 kB",
+        "partOfTotalIndexingTime" : "45.9%",
+        "partOfTotalContentLoadingTime" : "34.2%"
+      }, {
+        "fileType" : "HTML",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "356 B",
+        "partOfTotalIndexingTime" : "34.3%",
+        "partOfTotalContentLoadingTime" : "39.8%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 38,
+        "totalFilesSize" : "97.2 kB",
+        "partOfTotalIndexingTime" : "19.2%",
+        "partOfTotalContentLoadingTime" : "25.3%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "1.51 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "514 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 47,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "53.3%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 43,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "33.6%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 43,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "7.2%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 45,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "4.8%"
+      } ],
+      "fastIndexers" : [ "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.constraintlayout:constraintlayout:2.0.1@aar",
+      "totalNumberOfFiles" : 151,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "78 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 149,
+        "totalFilesSize" : "764.93 kB",
+        "partOfTotalIndexingTime" : "94.1%",
+        "partOfTotalContentLoadingTime" : "95.3%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "37.28 kB",
+        "partOfTotalIndexingTime" : "5.9%",
+        "partOfTotalContentLoadingTime" : "4.7%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 151,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "76.5%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 149,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "14.7%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 2,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.8%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "numberOfFiles" : 149,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.7%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+        "numberOfFiles" : 149,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.5%"
+      } ],
+      "fastIndexers" : [ "DomFileIndex", "FrameworkDetectionIndex", "RelaxSymbolIndex", "Trigram.Index", "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME", "fileIncludes", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.fragment:fragment:1.1.0@aar",
+      "totalNumberOfFiles" : 104,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "72 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 76,
+        "totalFilesSize" : "376.66 kB",
+        "partOfTotalIndexingTime" : "52.0%",
+        "partOfTotalContentLoadingTime" : "45.7%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 25,
+        "totalFilesSize" : "608.53 kB",
+        "partOfTotalIndexingTime" : "47.1%",
+        "partOfTotalContentLoadingTime" : "52.7%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "877 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 77,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "43.2%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 28,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "31.2%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 28,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "16.2%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 76,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "6.1%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "numberOfFiles" : 76,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.9%"
+      } ],
+      "fastIndexers" : [ "DomFileIndex", "FrameworkDetectionIndex", "RelaxSymbolIndex", "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME", "fileIncludes", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.annotation:annotation:1.1.0",
+      "totalNumberOfFiles" : 118,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "55 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 59,
+        "totalFilesSize" : "32.42 kB",
+        "partOfTotalIndexingTime" : "53.2%",
+        "partOfTotalContentLoadingTime" : "65.5%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 55,
+        "totalFilesSize" : "94.18 kB",
+        "partOfTotalIndexingTime" : "45.7%",
+        "partOfTotalContentLoadingTime" : "30.6%"
+      }, {
+        "fileType" : "Shrinker Config File",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "678 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "2.1%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "50 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "1.8%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 59,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "42.2%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 59,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "25.6%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 59,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "21.1%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 59,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "9.3%"
+      } ],
+      "fastIndexers" : [ "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex" ]
+    }, {
+      "providerName" : "Library Gradle: org.hamcrest:hamcrest-library:1.3",
+      "totalNumberOfFiles" : 73,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "48 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 29,
+        "totalFilesSize" : "150.99 kB",
+        "partOfTotalIndexingTime" : "41.7%",
+        "partOfTotalContentLoadingTime" : "72.9%"
+      }, {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 35,
+        "totalFilesSize" : "123.91 kB",
+        "partOfTotalIndexingTime" : "38.9%",
+        "partOfTotalContentLoadingTime" : "21.4%"
+      }, {
+        "fileType" : "HTML",
+        "numberOfFiles" : 6,
+        "totalFilesSize" : "606 B",
+        "partOfTotalIndexingTime" : "18.8%",
+        "partOfTotalContentLoadingTime" : "4.2%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "520 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "1.51 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 41,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "47.8%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 38,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "31.6%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 38,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "16.3%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 35,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "3.0%"
+      } ],
+      "fastIndexers" : [ "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.test:monitor:1.3.0@aar",
+      "totalNumberOfFiles" : 110,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "46 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 68,
+        "totalFilesSize" : "149.47 kB",
+        "partOfTotalIndexingTime" : "51.5%",
+        "partOfTotalContentLoadingTime" : "47.3%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 40,
+        "totalFilesSize" : "160.94 kB",
+        "partOfTotalIndexingTime" : "45.5%",
+        "partOfTotalContentLoadingTime" : "51.6%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "881 B",
+        "partOfTotalIndexingTime" : "2.9%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "48 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 69,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "45.6%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 42,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "23.2%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 42,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "23.2%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 68,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "4.3%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+        "numberOfFiles" : 68,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.2%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "numberOfFiles" : 68,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.2%"
+      } ],
+      "fastIndexers" : [ "DomFileIndex", "FrameworkDetectionIndex", "RelaxSymbolIndex", "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME", "fileIncludes", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.constraintlayout:constraintlayout-solver:2.0.1",
+      "totalNumberOfFiles" : 85,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "42 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 84,
+        "totalFilesSize" : "423.99 kB",
+        "partOfTotalIndexingTime" : "99.9%",
+        "partOfTotalContentLoadingTime" : "99.2%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 84,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "91.3%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 84,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "5.6%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "numberOfFiles" : 84,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.1%"
+      } ],
+      "fastIndexers" : [ "IdIndex", "Trigram.Index", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.appcompat:appcompat-resources:1.2.0@aar",
+      "totalNumberOfFiles" : 47,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "31 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 12,
+        "totalFilesSize" : "151.16 kB",
+        "partOfTotalIndexingTime" : "46.4%",
+        "partOfTotalContentLoadingTime" : "34.3%"
+      }, {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 30,
+        "totalFilesSize" : "134.82 kB",
+        "partOfTotalIndexingTime" : "45.8%",
+        "partOfTotalContentLoadingTime" : "43.6%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "6.51 kB",
+        "partOfTotalIndexingTime" : "7.4%",
+        "partOfTotalContentLoadingTime" : "19.5%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "1.6%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 33,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "42.4%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 17,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "27.1%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 17,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "22.5%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 30,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "3.5%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "numberOfFiles" : 3,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.3%"
+      } ],
+      "fastIndexers" : [ "FrameworkDetectionIndex", "RelaxSymbolIndex", "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME", "fileIncludes", "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.viewpager2:viewpager2:1.0.0@aar",
+      "totalNumberOfFiles" : 60,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "26 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 45,
+        "totalFilesSize" : "126.73 kB",
+        "partOfTotalIndexingTime" : "57.9%",
+        "partOfTotalContentLoadingTime" : "53.4%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 11,
+        "totalFilesSize" : "137.19 kB",
+        "partOfTotalIndexingTime" : "37.8%",
+        "partOfTotalContentLoadingTime" : "40.0%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "1.05 kB",
+        "partOfTotalIndexingTime" : "3.9%",
+        "partOfTotalContentLoadingTime" : "3.4%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "1.1%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "2.1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 47,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "49.8%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 15,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "24.9%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 15,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "14.3%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 45,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "6.6%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+        "numberOfFiles" : 45,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.3%"
+      }, {
+        "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.2%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "numberOfFiles" : 45,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.2%"
+      } ],
+      "fastIndexers" : [ "DomFileIndex", "FrameworkDetectionIndex", "RelaxSymbolIndex", "fileIncludes", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.viewpager:viewpager:1.0.0@aar",
+      "totalNumberOfFiles" : 31,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "24 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 24,
+        "totalFilesSize" : "98.85 kB",
+        "partOfTotalIndexingTime" : "49.5%",
+        "partOfTotalContentLoadingTime" : "47.2%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : "167.87 kB",
+        "partOfTotalIndexingTime" : "46.9%",
+        "partOfTotalContentLoadingTime" : "47.7%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "832 B",
+        "partOfTotalIndexingTime" : "3.1%",
+        "partOfTotalContentLoadingTime" : "1.2%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "1.7%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "2.3%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 25,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "44.5%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 7,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "32.6%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 7,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "15.6%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 24,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "4.0%"
+      } ],
+      "fastIndexers" : [ "DomFileIndex", "FrameworkDetectionIndex", "RelaxSymbolIndex", "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME", "fileIncludes", "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: com.google.code.findbugs:jsr305:2.0.1",
+      "totalNumberOfFiles" : 65,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "22 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 34,
+        "totalFilesSize" : "20.99 kB",
+        "partOfTotalIndexingTime" : "55.4%",
+        "partOfTotalContentLoadingTime" : "50.7%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 30,
+        "totalFilesSize" : "21.58 kB",
+        "partOfTotalIndexingTime" : "44.1%",
+        "partOfTotalContentLoadingTime" : "40.7%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "95 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "8.6%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 34,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "50.4%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 31,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "35.3%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 31,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "9.2%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 34,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "3.2%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "numberOfFiles" : 34,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.0%"
+      } ],
+      "fastIndexers" : [ "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.dynamicanimation:dynamicanimation:1.0.0@aar",
+      "totalNumberOfFiles" : 47,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "22 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 36,
+        "totalFilesSize" : "67.67 kB",
+        "partOfTotalIndexingTime" : "52.0%",
+        "partOfTotalContentLoadingTime" : "60.9%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 8,
+        "totalFilesSize" : "77.02 kB",
+        "partOfTotalIndexingTime" : "42.4%",
+        "partOfTotalContentLoadingTime" : "33.9%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "839 B",
+        "partOfTotalIndexingTime" : "5.2%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "1.9%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "2.4%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 37,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "43.8%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 11,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "22.5%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 11,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "21.3%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 36,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "5.0%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+        "numberOfFiles" : 36,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "3.1%"
+      }, {
+        "indexId" : "FrameworkDetectionIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.9%"
+      } ],
+      "fastIndexers" : [ "DomFileIndex", "RelaxSymbolIndex", "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME", "fileIncludes", "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Module 'TCP_SEND'",
+      "totalNumberOfFiles" : 8,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "21 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "ObjectiveC",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "5.77 kB",
+        "partOfTotalIndexingTime" : "38.4%",
+        "partOfTotalContentLoadingTime" : "22.3%"
+      }, {
+        "fileType" : "Groovy",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "741 B",
+        "partOfTotalIndexingTime" : "25.5%",
+        "partOfTotalContentLoadingTime" : "11.8%"
+      }, {
+        "fileType" : "textmate",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "2.76 kB",
+        "partOfTotalIndexingTime" : "20.3%",
+        "partOfTotalContentLoadingTime" : "22.6%"
+      }, {
+        "fileType" : "Properties",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "1.75 kB",
+        "partOfTotalIndexingTime" : "14.5%",
+        "partOfTotalContentLoadingTime" : "29.9%"
+      }, {
+        "fileType" : "GitIgnore file",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "225 B",
+        "partOfTotalIndexingTime" : "1.3%",
+        "partOfTotalContentLoadingTime" : "13.3%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "TodoIndex",
+        "numberOfFiles" : 8,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "60.6%"
+      }, {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 5,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "22.6%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 8,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "9.6%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 8,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "7.3%"
+      } ],
+      "fastIndexers" : [ ]
+    }, {
+      "providerName" : "Library Gradle: androidx.collection:collection:1.1.0",
+      "totalNumberOfFiles" : 29,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "20 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 17,
+        "totalFilesSize" : "86.03 kB",
+        "partOfTotalIndexingTime" : "52.3%",
+        "partOfTotalContentLoadingTime" : "40.6%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 10,
+        "totalFilesSize" : "138.18 kB",
+        "partOfTotalIndexingTime" : "47.1%",
+        "partOfTotalContentLoadingTime" : "57.3%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "50 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "2.1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 17,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "47.5%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 12,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "32.5%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 12,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "15.1%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 17,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "3.4%"
+      } ],
+      "fastIndexers" : [ "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.test:core:1.3.0@aar",
+      "totalNumberOfFiles" : 43,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "20 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 32,
+        "totalFilesSize" : "71.44 kB",
+        "partOfTotalIndexingTime" : "58.0%",
+        "partOfTotalContentLoadingTime" : "54.1%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 9,
+        "totalFilesSize" : "68.82 kB",
+        "partOfTotalIndexingTime" : "31.1%",
+        "partOfTotalContentLoadingTime" : "33.1%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "1.94 kB",
+        "partOfTotalIndexingTime" : "10.5%",
+        "partOfTotalContentLoadingTime" : "10.2%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "48 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "2.7%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 33,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "52.1%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 11,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "20.2%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 11,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "13.5%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 32,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "5.8%"
+      }, {
+        "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.9%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "numberOfFiles" : 32,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.8%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.3%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+        "numberOfFiles" : 32,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.0%"
+      } ],
+      "fastIndexers" : [ "FrameworkDetectionIndex", "RelaxSymbolIndex", "fileIncludes", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar",
+      "totalNumberOfFiles" : 21,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "17 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "150.97 kB",
+        "partOfTotalIndexingTime" : "48.8%",
+        "partOfTotalContentLoadingTime" : "49.2%"
+      }, {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 14,
+        "totalFilesSize" : "90.37 kB",
+        "partOfTotalIndexingTime" : "39.4%",
+        "partOfTotalContentLoadingTime" : "39.3%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "6.97 kB",
+        "partOfTotalIndexingTime" : "10.3%",
+        "partOfTotalContentLoadingTime" : "6.5%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "1.1%",
+        "partOfTotalContentLoadingTime" : "3.1%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "1.8%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 7,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "38.4%"
+      }, {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 16,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "37.5%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 7,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "16.0%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 14,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "3.0%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "numberOfFiles" : 2,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.8%"
+      } ],
+      "fastIndexers" : [ "FrameworkDetectionIndex", "RelaxSymbolIndex", "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME", "fileIncludes", "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.loader:loader:1.0.0@aar",
+      "totalNumberOfFiles" : 32,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "16 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 23,
+        "totalFilesSize" : "69.61 kB",
+        "partOfTotalIndexingTime" : "57.3%",
+        "partOfTotalContentLoadingTime" : "50.3%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 6,
+        "totalFilesSize" : "91.59 kB",
+        "partOfTotalIndexingTime" : "38.8%",
+        "partOfTotalContentLoadingTime" : "43.5%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "829 B",
+        "partOfTotalIndexingTime" : "3.4%",
+        "partOfTotalContentLoadingTime" : "1.1%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "3.3%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "1.8%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 24,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "50.0%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 9,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "24.9%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 9,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "15.6%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 23,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "5.9%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+        "numberOfFiles" : 23,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.1%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "numberOfFiles" : 23,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.1%"
+      } ],
+      "fastIndexers" : [ "DomFileIndex", "FrameworkDetectionIndex", "RelaxSymbolIndex", "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME", "fileIncludes", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar",
+      "totalNumberOfFiles" : 18,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "15 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 12,
+        "totalFilesSize" : "72.35 kB",
+        "partOfTotalIndexingTime" : "57.4%",
+        "partOfTotalContentLoadingTime" : "34.1%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "91.03 kB",
+        "partOfTotalIndexingTime" : "37.6%",
+        "partOfTotalContentLoadingTime" : "59.4%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "867 B",
+        "partOfTotalIndexingTime" : "4.1%",
+        "partOfTotalContentLoadingTime" : "1.2%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "2.1%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "3.1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 13,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "50.4%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 6,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "24.2%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 6,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "15.7%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 12,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "6.3%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "numberOfFiles" : 12,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.2%"
+      } ],
+      "fastIndexers" : [ "DomFileIndex", "FrameworkDetectionIndex", "RelaxSymbolIndex", "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME", "fileIncludes", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.customview:customview:1.0.0@aar",
+      "totalNumberOfFiles" : 22,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "15 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : "136.24 kB",
+        "partOfTotalIndexingTime" : "57.1%",
+        "partOfTotalContentLoadingTime" : "55.7%"
+      }, {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 15,
+        "totalFilesSize" : "65.1 kB",
+        "partOfTotalIndexingTime" : "39.9%",
+        "partOfTotalContentLoadingTime" : "37.5%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "833 B",
+        "partOfTotalIndexingTime" : "2.5%",
+        "partOfTotalContentLoadingTime" : "1.1%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "2.0%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "3.7%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 7,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "40.5%"
+      }, {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 16,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "33.4%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 7,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "17.8%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 15,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "5.9%"
+      } ],
+      "fastIndexers" : [ "DomFileIndex", "FrameworkDetectionIndex", "RelaxSymbolIndex", "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME", "fileIncludes", "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: com.squareup:javawriter:2.1.1",
+      "totalNumberOfFiles" : 7,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "14 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "Properties",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "107 B",
+        "partOfTotalIndexingTime" : "43.3%",
+        "partOfTotalContentLoadingTime" : "10.2%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "2.88 kB",
+        "partOfTotalIndexingTime" : "23.0%",
+        "partOfTotalContentLoadingTime" : "10.3%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25.23 kB",
+        "partOfTotalIndexingTime" : "16.5%",
+        "partOfTotalContentLoadingTime" : "36.4%"
+      }, {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "22.28 kB",
+        "partOfTotalIndexingTime" : "15.9%",
+        "partOfTotalContentLoadingTime" : "30.9%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "248 B",
+        "partOfTotalIndexingTime" : "1.4%",
+        "partOfTotalContentLoadingTime" : "12.2%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 5,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "45.5%"
+      }, {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 4,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "41.2%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 5,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "5.6%"
+      }, {
+        "indexId" : "xmlProperties",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "4.6%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.4%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 2,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.0%"
+      } ],
+      "fastIndexers" : [ "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar",
+      "totalNumberOfFiles" : 22,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "14 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 6,
+        "totalFilesSize" : "97.51 kB",
+        "partOfTotalIndexingTime" : "51.5%",
+        "partOfTotalContentLoadingTime" : "53.7%"
+      }, {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 13,
+        "totalFilesSize" : "71.88 kB",
+        "partOfTotalIndexingTime" : "43.7%",
+        "partOfTotalContentLoadingTime" : "37.3%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "876 B",
+        "partOfTotalIndexingTime" : "4.0%",
+        "partOfTotalContentLoadingTime" : "1.4%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "2.9%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "4.6%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 14,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "39.0%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 9,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "35.4%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 9,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "18.0%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 13,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "3.8%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "numberOfFiles" : 13,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.2%"
+      } ],
+      "fastIndexers" : [ "DomFileIndex", "FrameworkDetectionIndex", "RelaxSymbolIndex", "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME", "fileIncludes", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.test.ext:junit:1.1.2@aar",
+      "totalNumberOfFiles" : 11,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "14 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 7,
+        "totalFilesSize" : "13.27 kB",
+        "partOfTotalIndexingTime" : "55.2%",
+        "partOfTotalContentLoadingTime" : "52.3%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "9.72 kB",
+        "partOfTotalIndexingTime" : "25.0%",
+        "partOfTotalContentLoadingTime" : "3.2%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "883 B",
+        "partOfTotalIndexingTime" : "18.3%",
+        "partOfTotalContentLoadingTime" : "44.0%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "48 B",
+        "partOfTotalIndexingTime" : "1.5%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 8,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "56.3%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 4,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "20.8%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 4,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "9.2%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 7,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "4.5%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.4%"
+      }, {
+        "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.3%"
+      }, {
+        "indexId" : "fileIncludes",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.2%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "numberOfFiles" : 7,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.1%"
+      } ],
+      "fastIndexers" : [ "FrameworkDetectionIndex", "RelaxSymbolIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.versionedparcelable:versionedparcelable:1.1.0@aar",
+      "totalNumberOfFiles" : 28,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "14 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 10,
+        "totalFilesSize" : "90.43 kB",
+        "partOfTotalIndexingTime" : "49.4%",
+        "partOfTotalContentLoadingTime" : "55.7%"
+      }, {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 15,
+        "totalFilesSize" : "67.72 kB",
+        "partOfTotalIndexingTime" : "46.5%",
+        "partOfTotalContentLoadingTime" : "37.3%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "926 B",
+        "partOfTotalIndexingTime" : "3.4%",
+        "partOfTotalContentLoadingTime" : "1.4%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "2.1%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "3.4%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 16,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "42.6%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 13,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "34.6%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 13,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "16.6%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 15,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "3.1%"
+      } ],
+      "fastIndexers" : [ "DomFileIndex", "FrameworkDetectionIndex", "RelaxSymbolIndex", "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME", "fileIncludes", "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.cardview:cardview:1.0.0@aar",
+      "totalNumberOfFiles" : 25,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "13 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 8,
+        "totalFilesSize" : "55.42 kB",
+        "partOfTotalIndexingTime" : "47.2%",
+        "partOfTotalContentLoadingTime" : "52.9%"
+      }, {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 12,
+        "totalFilesSize" : "42.82 kB",
+        "partOfTotalIndexingTime" : "38.9%",
+        "partOfTotalContentLoadingTime" : "30.9%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "4.13 kB",
+        "partOfTotalIndexingTime" : "13.0%",
+        "partOfTotalContentLoadingTime" : "11.8%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "1.6%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "2.8%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 15,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "35.9%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 13,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "28.5%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 13,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "26.7%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 12,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "4.0%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "numberOfFiles" : 3,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.2%"
+      } ],
+      "fastIndexers" : [ "FrameworkDetectionIndex", "RelaxSymbolIndex", "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME", "fileIncludes", "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar",
+      "totalNumberOfFiles" : 15,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "12 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "97.85 kB",
+        "partOfTotalIndexingTime" : "47.9%",
+        "partOfTotalContentLoadingTime" : "51.3%"
+      }, {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 11,
+        "totalFilesSize" : "59.03 kB",
+        "partOfTotalIndexingTime" : "40.5%",
+        "partOfTotalContentLoadingTime" : "36.5%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "835 B",
+        "partOfTotalIndexingTime" : "10.8%",
+        "partOfTotalContentLoadingTime" : "2.0%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "2.6%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "7.6%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 4,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "41.2%"
+      }, {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 12,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "38.1%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 4,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "9.8%"
+      }, {
+        "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "5.5%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 11,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.7%"
+      } ],
+      "fastIndexers" : [ "DomFileIndex", "FrameworkDetectionIndex", "RelaxSymbolIndex", "fileIncludes", "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.lifecycle:lifecycle-common:2.1.0",
+      "totalNumberOfFiles" : 38,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "12 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 21,
+        "totalFilesSize" : "37.55 kB",
+        "partOfTotalIndexingTime" : "54.9%",
+        "partOfTotalContentLoadingTime" : "43.1%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 15,
+        "totalFilesSize" : "41.48 kB",
+        "partOfTotalIndexingTime" : "44.2%",
+        "partOfTotalContentLoadingTime" : "53.4%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "50 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "3.5%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 21,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "47.4%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 17,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "25.1%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 17,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "19.7%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 21,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "5.0%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "numberOfFiles" : 21,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.4%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+        "numberOfFiles" : 21,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.1%"
+      } ],
+      "fastIndexers" : [ "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar",
+      "totalNumberOfFiles" : 16,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "9 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : "41.17 kB",
+        "partOfTotalIndexingTime" : "50.9%",
+        "partOfTotalContentLoadingTime" : "84.7%"
+      }, {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 9,
+        "totalFilesSize" : "20.73 kB",
+        "partOfTotalIndexingTime" : "39.6%",
+        "partOfTotalContentLoadingTime" : "11.0%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "836 B",
+        "partOfTotalIndexingTime" : "7.9%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "1.1%",
+        "partOfTotalContentLoadingTime" : "1.3%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "2.2%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 10,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "34.7%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 7,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "31.7%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 7,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "23.8%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 9,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "4.8%"
+      }, {
+        "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.4%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+        "numberOfFiles" : 9,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.1%"
+      } ],
+      "fastIndexers" : [ "DomFileIndex", "FrameworkDetectionIndex", "RelaxSymbolIndex", "fileIncludes", "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: org.hamcrest:hamcrest-integration:1.3",
+      "totalNumberOfFiles" : 13,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "9 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 5,
+        "totalFilesSize" : "4.81 kB",
+        "partOfTotalIndexingTime" : "47.5%",
+        "partOfTotalContentLoadingTime" : "24.8%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 5,
+        "totalFilesSize" : "3.52 kB",
+        "partOfTotalIndexingTime" : "38.0%",
+        "partOfTotalContentLoadingTime" : "47.5%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "528 B",
+        "partOfTotalIndexingTime" : "9.3%",
+        "partOfTotalContentLoadingTime" : "9.0%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "1.51 kB",
+        "partOfTotalIndexingTime" : "5.1%",
+        "partOfTotalContentLoadingTime" : "18.7%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 5,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "37.9%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 8,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "27.5%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 8,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "23.6%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 5,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "4.6%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+        "numberOfFiles" : 5,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "3.8%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex",
+        "numberOfFiles" : 2,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.4%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "numberOfFiles" : 5,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.2%"
+      } ],
+      "fastIndexers" : [ ]
+    }, {
+      "providerName" : "Library Gradle: androidx.activity:activity:1.0.0@aar",
+      "totalNumberOfFiles" : 21,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "8 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 12,
+        "totalFilesSize" : "22.15 kB",
+        "partOfTotalIndexingTime" : "50.4%",
+        "partOfTotalContentLoadingTime" : "40.1%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 6,
+        "totalFilesSize" : "31.59 kB",
+        "partOfTotalIndexingTime" : "41.2%",
+        "partOfTotalContentLoadingTime" : "47.9%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "873 B",
+        "partOfTotalIndexingTime" : "7.0%",
+        "partOfTotalContentLoadingTime" : "2.1%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "3.5%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "6.4%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 13,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "43.2%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 9,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "26.1%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 9,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "18.4%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 12,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "5.2%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "numberOfFiles" : 12,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.0%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+        "numberOfFiles" : 12,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.7%"
+      }, {
+        "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.3%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.2%"
+      } ],
+      "fastIndexers" : [ "FrameworkDetectionIndex", "RelaxSymbolIndex", "fileIncludes", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.lifecycle:lifecycle-viewmodel:2.1.0@aar",
+      "totalNumberOfFiles" : 17,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "7 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 9,
+        "totalFilesSize" : "14.87 kB",
+        "partOfTotalIndexingTime" : "51.7%",
+        "partOfTotalContentLoadingTime" : "43.1%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 5,
+        "totalFilesSize" : "21.65 kB",
+        "partOfTotalIndexingTime" : "37.2%",
+        "partOfTotalContentLoadingTime" : "44.0%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "841 B",
+        "partOfTotalIndexingTime" : "9.3%",
+        "partOfTotalContentLoadingTime" : "2.6%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "1.0%",
+        "partOfTotalContentLoadingTime" : "3.6%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "6.8%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 10,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "46.0%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 8,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "23.7%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 8,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "17.9%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 9,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "4.7%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+        "numberOfFiles" : 9,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.2%"
+      }, {
+        "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.6%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.5%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "numberOfFiles" : 9,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.0%"
+      } ],
+      "fastIndexers" : [ "FrameworkDetectionIndex", "RelaxSymbolIndex", "fileIncludes", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: javax.inject:javax.inject:1",
+      "totalNumberOfFiles" : 13,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "7 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 7,
+        "totalFilesSize" : "23.72 kB",
+        "partOfTotalIndexingTime" : "82.0%",
+        "partOfTotalContentLoadingTime" : "72.5%"
+      }, {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 6,
+        "totalFilesSize" : "2.31 kB",
+        "partOfTotalIndexingTime" : "18.0%",
+        "partOfTotalContentLoadingTime" : "27.5%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 7,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "55.1%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 7,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "26.9%"
+      }, {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 6,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "15.0%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 6,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.9%"
+      } ],
+      "fastIndexers" : [ "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar",
+      "totalNumberOfFiles" : 16,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "7 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 10,
+        "totalFilesSize" : "17.77 kB",
+        "partOfTotalIndexingTime" : "58.9%",
+        "partOfTotalContentLoadingTime" : "59.5%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "17.5 kB",
+        "partOfTotalIndexingTime" : "29.6%",
+        "partOfTotalContentLoadingTime" : "26.9%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "840 B",
+        "partOfTotalIndexingTime" : "9.3%",
+        "partOfTotalContentLoadingTime" : "2.5%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "1.1%",
+        "partOfTotalContentLoadingTime" : "3.9%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "1.0%",
+        "partOfTotalContentLoadingTime" : "7.3%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 11,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "52.4%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 6,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "21.5%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 6,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "13.1%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 10,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "6.0%"
+      }, {
+        "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.8%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "numberOfFiles" : 10,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.6%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+        "numberOfFiles" : 10,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.2%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.1%"
+      } ],
+      "fastIndexers" : [ "FrameworkDetectionIndex", "RelaxSymbolIndex", "fileIncludes", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.documentfile:documentfile:1.0.0@aar",
+      "totalNumberOfFiles" : 13,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "6 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 5,
+        "totalFilesSize" : "35.31 kB",
+        "partOfTotalIndexingTime" : "45.6%",
+        "partOfTotalContentLoadingTime" : "57.3%"
+      }, {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 5,
+        "totalFilesSize" : "23.64 kB",
+        "partOfTotalIndexingTime" : "42.9%",
+        "partOfTotalContentLoadingTime" : "29.7%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "835 B",
+        "partOfTotalIndexingTime" : "10.0%",
+        "partOfTotalContentLoadingTime" : "3.1%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "3.9%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "6.1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 6,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "40.6%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 8,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "30.5%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 8,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "20.0%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 5,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.9%"
+      }, {
+        "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.8%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.3%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "numberOfFiles" : 5,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.0%"
+      } ],
+      "fastIndexers" : [ "FrameworkDetectionIndex", "RelaxSymbolIndex", "fileIncludes", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.savedstate:savedstate:1.0.0@aar",
+      "totalNumberOfFiles" : 15,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "6 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 8,
+        "totalFilesSize" : "16.75 kB",
+        "partOfTotalIndexingTime" : "47.4%",
+        "partOfTotalContentLoadingTime" : "38.5%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : "17.45 kB",
+        "partOfTotalIndexingTime" : "36.5%",
+        "partOfTotalContentLoadingTime" : "46.3%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "875 B",
+        "partOfTotalIndexingTime" : "13.4%",
+        "partOfTotalContentLoadingTime" : "2.8%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "1.8%",
+        "partOfTotalContentLoadingTime" : "4.1%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "8.3%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 9,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "45.2%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 7,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "26.5%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 7,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "17.0%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 8,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "4.2%"
+      }, {
+        "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.0%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+        "numberOfFiles" : 8,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.3%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.2%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "numberOfFiles" : 8,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.1%"
+      } ],
+      "fastIndexers" : [ "FrameworkDetectionIndex", "RelaxSymbolIndex", "fileIncludes", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.lifecycle:lifecycle-runtime:2.1.0@aar",
+      "totalNumberOfFiles" : 12,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "6 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 6,
+        "totalFilesSize" : "17.02 kB",
+        "partOfTotalIndexingTime" : "46.0%",
+        "partOfTotalContentLoadingTime" : "30.0%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "19.26 kB",
+        "partOfTotalIndexingTime" : "41.4%",
+        "partOfTotalContentLoadingTime" : "53.0%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "835 B",
+        "partOfTotalIndexingTime" : "9.8%",
+        "partOfTotalContentLoadingTime" : "2.5%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "1.5%",
+        "partOfTotalContentLoadingTime" : "10.6%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "1.3%",
+        "partOfTotalContentLoadingTime" : "3.9%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 7,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "42.2%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 6,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "25.2%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 6,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "22.0%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 6,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "4.2%"
+      }, {
+        "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.6%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+        "numberOfFiles" : 6,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.3%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.3%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "numberOfFiles" : 6,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.1%"
+      } ],
+      "fastIndexers" : [ "FrameworkDetectionIndex", "RelaxSymbolIndex", "fileIncludes", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.print:print:1.0.0@aar",
+      "totalNumberOfFiles" : 11,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "5 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 7,
+        "totalFilesSize" : "31.69 kB",
+        "partOfTotalIndexingTime" : "49.2%",
+        "partOfTotalContentLoadingTime" : "44.8%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "30.52 kB",
+        "partOfTotalIndexingTime" : "37.8%",
+        "partOfTotalContentLoadingTime" : "36.7%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "828 B",
+        "partOfTotalIndexingTime" : "11.0%",
+        "partOfTotalContentLoadingTime" : "3.3%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "1.1%",
+        "partOfTotalContentLoadingTime" : "4.6%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "10.5%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 8,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "44.8%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 4,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "32.7%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 4,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "10.7%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 7,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "5.1%"
+      }, {
+        "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.0%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.3%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "numberOfFiles" : 7,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.3%"
+      } ],
+      "fastIndexers" : [ "FrameworkDetectionIndex", "RelaxSymbolIndex", "fileIncludes", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.interpolator:interpolator:1.0.0@aar",
+      "totalNumberOfFiles" : 11,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "5 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : "12.13 kB",
+        "partOfTotalIndexingTime" : "56.6%",
+        "partOfTotalContentLoadingTime" : "50.3%"
+      }, {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : "9.56 kB",
+        "partOfTotalIndexingTime" : "23.6%",
+        "partOfTotalContentLoadingTime" : "27.3%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "835 B",
+        "partOfTotalIndexingTime" : "16.9%",
+        "partOfTotalContentLoadingTime" : "4.5%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "1.6%",
+        "partOfTotalContentLoadingTime" : "12.8%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "1.3%",
+        "partOfTotalContentLoadingTime" : "5.1%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 7,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "37.5%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 7,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "27.2%"
+      }, {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 5,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "22.9%"
+      }, {
+        "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "3.3%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 4,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "3.3%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.5%"
+      } ],
+      "fastIndexers" : [ "FrameworkDetectionIndex", "RelaxSymbolIndex", "fileIncludes", "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar",
+      "totalNumberOfFiles" : 13,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "5 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 7,
+        "totalFilesSize" : "15.66 kB",
+        "partOfTotalIndexingTime" : "53.1%",
+        "partOfTotalContentLoadingTime" : "38.5%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "18.12 kB",
+        "partOfTotalIndexingTime" : "33.4%",
+        "partOfTotalContentLoadingTime" : "46.5%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "845 B",
+        "partOfTotalIndexingTime" : "11.5%",
+        "partOfTotalContentLoadingTime" : "3.3%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "1.1%",
+        "partOfTotalContentLoadingTime" : "4.4%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "7.3%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 8,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "47.5%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 6,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "23.8%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 6,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "14.9%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 7,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "6.1%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.9%"
+      }, {
+        "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.8%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+        "numberOfFiles" : 7,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.4%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "numberOfFiles" : 7,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.1%"
+      } ],
+      "fastIndexers" : [ "FrameworkDetectionIndex", "RelaxSymbolIndex", "fileIncludes", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.test.espresso:espresso-idling-resource:3.3.0@aar",
+      "totalNumberOfFiles" : 9,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "4 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "13.68 kB",
+        "partOfTotalIndexingTime" : "42.9%",
+        "partOfTotalContentLoadingTime" : "49.0%"
+      }, {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : "6.75 kB",
+        "partOfTotalIndexingTime" : "34.2%",
+        "partOfTotalContentLoadingTime" : "40.6%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "902 B",
+        "partOfTotalIndexingTime" : "20.1%",
+        "partOfTotalContentLoadingTime" : "4.1%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "59 B",
+        "partOfTotalIndexingTime" : "2.8%",
+        "partOfTotalContentLoadingTime" : "6.3%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 5,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "37.0%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 5,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "25.9%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 5,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "24.8%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "3.1%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 4,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.6%"
+      }, {
+        "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.6%"
+      }, {
+        "indexId" : "fileIncludes",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.0%"
+      } ],
+      "fastIndexers" : [ "FrameworkDetectionIndex", "RelaxSymbolIndex", "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.arch.core:core-common:2.1.0",
+      "totalNumberOfFiles" : 14,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "4 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 9,
+        "totalFilesSize" : "22.28 kB",
+        "partOfTotalIndexingTime" : "66.5%",
+        "partOfTotalContentLoadingTime" : "49.4%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "14.57 kB",
+        "partOfTotalIndexingTime" : "31.9%",
+        "partOfTotalContentLoadingTime" : "42.0%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "50 B",
+        "partOfTotalIndexingTime" : "1.6%",
+        "partOfTotalContentLoadingTime" : "8.6%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 9,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "58.8%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 5,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "22.6%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 5,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "10.4%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 9,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "5.3%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "numberOfFiles" : 9,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.4%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+        "numberOfFiles" : 9,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.0%"
+      } ],
+      "fastIndexers" : [ "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.arch.core:core-runtime:2.0.0@aar",
+      "totalNumberOfFiles" : 12,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "4 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 6,
+        "totalFilesSize" : "8.35 kB",
+        "partOfTotalIndexingTime" : "51.9%",
+        "partOfTotalContentLoadingTime" : "35.3%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "7.79 kB",
+        "partOfTotalIndexingTime" : "27.9%",
+        "partOfTotalContentLoadingTime" : "43.5%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "835 B",
+        "partOfTotalIndexingTime" : "17.4%",
+        "partOfTotalContentLoadingTime" : "4.2%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "1.6%",
+        "partOfTotalContentLoadingTime" : "6.8%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "1.2%",
+        "partOfTotalContentLoadingTime" : "10.2%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 7,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "48.8%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 6,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "21.0%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 6,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "14.8%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 6,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "4.4%"
+      }, {
+        "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "3.1%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.9%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+        "numberOfFiles" : 6,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.6%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "numberOfFiles" : 6,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.2%"
+      } ],
+      "fastIndexers" : [ "FrameworkDetectionIndex", "RelaxSymbolIndex", "fileIncludes", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.annotation:annotation-experimental:1.0.0@aar",
+      "totalNumberOfFiles" : 8,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "4 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "4.41 kB",
+        "partOfTotalIndexingTime" : "41.5%",
+        "partOfTotalContentLoadingTime" : "21.5%"
+      }, {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "2.46 kB",
+        "partOfTotalIndexingTime" : "27.3%",
+        "partOfTotalContentLoadingTime" : "67.8%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "862 B",
+        "partOfTotalIndexingTime" : "18.4%",
+        "partOfTotalContentLoadingTime" : "2.1%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "9.0%",
+        "partOfTotalContentLoadingTime" : "5.0%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "3.8%",
+        "partOfTotalContentLoadingTime" : "3.5%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 5,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "38.7%"
+      }, {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 4,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "27.7%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 5,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "20.0%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 3,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "3.1%"
+      }, {
+        "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "3.0%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.3%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.3%"
+      } ],
+      "fastIndexers" : [ "FrameworkDetectionIndex", "RelaxSymbolIndex", "fileIncludes", "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar",
+      "totalNumberOfFiles" : 8,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "3 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 4,
+        "totalFilesSize" : "11.84 kB",
+        "partOfTotalIndexingTime" : "41.1%",
+        "partOfTotalContentLoadingTime" : "31.1%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "12.15 kB",
+        "partOfTotalIndexingTime" : "34.5%",
+        "partOfTotalContentLoadingTime" : "33.1%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "844 B",
+        "partOfTotalIndexingTime" : "20.7%",
+        "partOfTotalContentLoadingTime" : "4.7%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "2.2%",
+        "partOfTotalContentLoadingTime" : "8.8%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "1.5%",
+        "partOfTotalContentLoadingTime" : "22.3%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 5,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "40.0%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 4,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "31.6%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 4,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "13.1%"
+      }, {
+        "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "5.2%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 4,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "3.4%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.6%"
+      }, {
+        "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+        "numberOfFiles" : 4,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.0%"
+      } ],
+      "fastIndexers" : [ "FrameworkDetectionIndex", "RelaxSymbolIndex", "fileIncludes", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    }, {
+      "providerName" : "Library Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar",
+      "totalNumberOfFiles" : 5,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "3 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6.7 kB",
+        "partOfTotalIndexingTime" : "40.1%",
+        "partOfTotalContentLoadingTime" : "41.9%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "839 B",
+        "partOfTotalIndexingTime" : "31.5%",
+        "partOfTotalContentLoadingTime" : "25.0%"
+      }, {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "3.07 kB",
+        "partOfTotalIndexingTime" : "21.5%",
+        "partOfTotalContentLoadingTime" : "10.6%"
+      }, {
+        "fileType" : "Manifest",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "25 B",
+        "partOfTotalIndexingTime" : "3.7%",
+        "partOfTotalContentLoadingTime" : "7.7%"
+      }, {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "6 B",
+        "partOfTotalIndexingTime" : "3.2%",
+        "partOfTotalContentLoadingTime" : "14.9%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 4,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "35.5%"
+      }, {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 2,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "26.3%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 4,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "20.3%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "6.5%"
+      }, {
+        "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "5.1%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.8%"
+      }, {
+        "indexId" : "fileIncludes",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.1%"
+      }, {
+        "indexId" : "FrameworkDetectionIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "1.0%"
+      } ],
+      "fastIndexers" : [ "RelaxSymbolIndex", "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinStdlibIndex", "xmlProperties" ]
+    } ]
+  }
+}

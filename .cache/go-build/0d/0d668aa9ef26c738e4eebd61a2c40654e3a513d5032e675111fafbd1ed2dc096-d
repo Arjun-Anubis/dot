@@ -1,0 +1,6 @@
+./base_dirs.go
+./paths_darwin.go
+./stat.go
+./user_dirs.go
+./utils.go
+./xdg.go

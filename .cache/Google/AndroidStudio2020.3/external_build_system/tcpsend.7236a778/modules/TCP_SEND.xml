@@ -1,0 +1,22 @@
+<module>
+  <component name="DeprecatedModuleOptionManager">
+    <option key="type" value="JAVA_MODULE" />
+  </component>
+  <component name="ExternalFacetManager">
+    <facet __external-system-id="GRADLE" type="java-gradle" name="Java-Gradle">
+      <configuration>
+        <option name="BUILDABLE" value="false" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="ExternalSystem" externalSystem="GRADLE" externalSystemModuleGroup="" externalSystemModuleVersion="unspecified" linkedProjectId="TCP SEND" linkedProjectPath="$MODULE_DIR$/../.." rootProjectPath="$MODULE_DIR$/../.." />
+  <component name="NewModuleRootManager">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../..">
+      <excludeFolder url="file://$MODULE_DIR$/../../.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

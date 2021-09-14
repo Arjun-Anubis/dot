@@ -1,0 +1,312 @@
+{
+  "appInfo" : {
+    "build" : "203.7717.56.2031.7583922",
+    "buildDate" : "Tue, 27 Jul 2021 01:29:00 +0530",
+    "productCode" : "AI",
+    "generated" : "Sun, 8 Aug 2021 14:53:17 +0530",
+    "os" : "Linux 5.11.0-25-generic",
+    "runtime" : "JetBrains s.r.o. 11.0.10 11.0.10+0-b96-7249189"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 1342177280,
+    "numberOfProcessors" : 4,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "Send",
+    "numberOfFileProviders" : 8,
+    "totalNumberOfFiles" : 32109,
+    "totalNumberOfUpToDateFiles" : 32085,
+    "times" : {
+      "totalUpdatingTime" : "323 ms",
+      "indexingTime" : "51 ms",
+      "pushPropertiesTime" : "1 ms",
+      "updatingStart" : "Sun, 8 Aug 2021 14:53:17 +0530",
+      "updatingEnd" : "Sun, 8 Aug 2021 14:53:17 +0530",
+      "wasInterrupted" : false
+    },
+    "numberOfIndexingThreads" : 3,
+    "totalStatsPerFileType" : [ {
+      "fileType" : "Groovy",
+      "partOfTotalIndexingTime" : "49.0%",
+      "partOfTotalContentLoadingTime" : "14.5%",
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : "1.75 kB",
+      "indexingSpeed" : "104.55 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Send'",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "1.75 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "XML",
+      "partOfTotalIndexingTime" : "29.8%",
+      "partOfTotalContentLoadingTime" : "31.9%",
+      "totalNumberOfFiles" : 10,
+      "totalFilesSize" : "11.49 kB",
+      "indexingSpeed" : "1.13 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Send'",
+        "numberOfFiles" : 10,
+        "totalFilesSize" : "11.49 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "Properties",
+      "partOfTotalIndexingTime" : "14.5%",
+      "partOfTotalContentLoadingTime" : "7.2%",
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : "1.75 kB",
+      "indexingSpeed" : "352.33 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Send'",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "1.75 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "JAVA",
+      "partOfTotalIndexingTime" : "4.1%",
+      "partOfTotalContentLoadingTime" : "7.1%",
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : "1.45 kB",
+      "indexingSpeed" : "1.03 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Send'",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "1.45 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "ObjectiveC",
+      "partOfTotalIndexingTime" : "1.3%",
+      "partOfTotalContentLoadingTime" : "8.9%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "5.77 kB",
+      "indexingSpeed" : "12.95 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Send'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "5.77 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "GitIgnore file",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "4.9%",
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : "231 B",
+      "indexingSpeed" : "1.26 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Send'",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "231 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "Shrinker Config File",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "22.1%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "750 B",
+      "indexingSpeed" : "5.58 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Send'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "750 B",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "textmate",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "3.3%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "2.76 kB",
+      "indexingSpeed" : "30.37 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Send'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "2.76 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : "63.9%",
+      "totalNumberOfFiles" : 16,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "14.99 kB",
+      "indexingSpeed" : "687.18 kB/s"
+    }, {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : "10.5%",
+      "totalNumberOfFiles" : 21,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "17.2 kB",
+      "indexingSpeed" : "4.81 MB/s"
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : "6.7%",
+      "totalNumberOfFiles" : 24,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "25.95 kB",
+      "indexingSpeed" : "11.32 MB/s"
+    }, {
+      "indexId" : "fileIncludes",
+      "partOfTotalIndexingTime" : "5.9%",
+      "totalNumberOfFiles" : 10,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "11.49 kB",
+      "indexingSpeed" : "5.69 MB/s"
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : "4.2%",
+      "totalNumberOfFiles" : 21,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "17.2 kB",
+      "indexingSpeed" : "11.95 MB/s"
+    }, {
+      "indexId" : "xmlProperties",
+      "partOfTotalIndexingTime" : "2.6%",
+      "totalNumberOfFiles" : 10,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "11.49 kB",
+      "indexingSpeed" : "12.88 MB/s"
+    }, {
+      "indexId" : "RelaxSymbolIndex",
+      "partOfTotalIndexingTime" : "2.6%",
+      "totalNumberOfFiles" : 10,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "11.49 kB",
+      "indexingSpeed" : "13.16 MB/s"
+    }, {
+      "indexId" : "DomFileIndex",
+      "partOfTotalIndexingTime" : "2.2%",
+      "totalNumberOfFiles" : 10,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "11.49 kB",
+      "indexingSpeed" : "15.33 MB/s"
+    }, {
+      "indexId" : "BindingXmlIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "780 B",
+      "indexingSpeed" : "3.55 MB/s"
+    }, {
+      "indexId" : "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "760 B",
+      "indexingSpeed" : "4.76 MB/s"
+    }, {
+      "indexId" : "FrameworkDetectionIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 10,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "11.49 kB",
+      "indexingSpeed" : "91.26 MB/s"
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'Send'",
+      "totalNumberOfFiles" : 24,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "51 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "Groovy",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "1.75 kB",
+        "partOfTotalIndexingTime" : "49.0%",
+        "partOfTotalContentLoadingTime" : "14.5%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 10,
+        "totalFilesSize" : "11.49 kB",
+        "partOfTotalIndexingTime" : "29.8%",
+        "partOfTotalContentLoadingTime" : "31.9%"
+      }, {
+        "fileType" : "Properties",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "1.75 kB",
+        "partOfTotalIndexingTime" : "14.5%",
+        "partOfTotalContentLoadingTime" : "7.2%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "1.45 kB",
+        "partOfTotalIndexingTime" : "4.1%",
+        "partOfTotalContentLoadingTime" : "7.1%"
+      }, {
+        "fileType" : "ObjectiveC",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "5.77 kB",
+        "partOfTotalIndexingTime" : "1.3%",
+        "partOfTotalContentLoadingTime" : "8.9%"
+      }, {
+        "fileType" : "GitIgnore file",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : "231 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "4.9%"
+      }, {
+        "fileType" : "Shrinker Config File",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "750 B",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "22.1%"
+      }, {
+        "fileType" : "textmate",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "2.76 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "3.3%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 16,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "63.9%"
+      }, {
+        "indexId" : "TodoIndex",
+        "numberOfFiles" : 21,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "10.5%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 24,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "6.7%"
+      }, {
+        "indexId" : "fileIncludes",
+        "numberOfFiles" : 10,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "5.9%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 21,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "4.2%"
+      }, {
+        "indexId" : "xmlProperties",
+        "numberOfFiles" : 10,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.6%"
+      }, {
+        "indexId" : "RelaxSymbolIndex",
+        "numberOfFiles" : 10,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.6%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "numberOfFiles" : 10,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "2.2%"
+      } ],
+      "fastIndexers" : [ "BindingXmlIndex", "FrameworkDetectionIndex", "com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME" ]
+    } ]
+  }
+}

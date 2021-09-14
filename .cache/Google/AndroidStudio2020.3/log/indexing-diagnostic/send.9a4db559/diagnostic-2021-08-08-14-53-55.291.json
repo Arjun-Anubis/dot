@@ -1,0 +1,152 @@
+{
+  "appInfo" : {
+    "build" : "203.7717.56.2031.7583922",
+    "buildDate" : "Tue, 27 Jul 2021 01:29:00 +0530",
+    "productCode" : "AI",
+    "generated" : "Sun, 8 Aug 2021 14:53:55 +0530",
+    "os" : "Linux 5.11.0-25-generic",
+    "runtime" : "JetBrains s.r.o. 11.0.10 11.0.10+0-b96-7249189"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 1342177280,
+    "numberOfProcessors" : 4,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "Send",
+    "numberOfFileProviders" : 1,
+    "totalNumberOfFiles" : 3,
+    "totalNumberOfUpToDateFiles" : 0,
+    "times" : {
+      "totalUpdatingTime" : "9 ms",
+      "indexingTime" : "9 ms",
+      "updatingStart" : "Sun, 8 Aug 2021 14:53:55 +0530",
+      "updatingEnd" : "Sun, 8 Aug 2021 14:53:55 +0530",
+      "wasInterrupted" : false
+    },
+    "numberOfIndexingThreads" : 0,
+    "totalStatsPerFileType" : [ {
+      "fileType" : "JAVA",
+      "partOfTotalIndexingTime" : "100.0%",
+      "partOfTotalContentLoadingTime" : "100.0%",
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : "1.45 kB",
+      "indexingSpeed" : "204.06 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Refreshed files",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "1.45 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : "36.0%",
+      "totalNumberOfFiles" : 3,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "1.45 kB",
+      "indexingSpeed" : "567.23 kB/s"
+    }, {
+      "indexId" : "android.ndk.jni.nativemethodindex",
+      "partOfTotalIndexingTime" : "29.4%",
+      "totalNumberOfFiles" : 3,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "1.45 kB",
+      "indexingSpeed" : "695.24 kB/s"
+    }, {
+      "indexId" : "java.null.method.argument",
+      "partOfTotalIndexingTime" : "13.6%",
+      "totalNumberOfFiles" : 3,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "1.45 kB",
+      "indexingSpeed" : "1.51 MB/s"
+    }, {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : "7.1%",
+      "totalNumberOfFiles" : 3,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "1.45 kB",
+      "indexingSpeed" : "2.88 MB/s"
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : "6.2%",
+      "totalNumberOfFiles" : 3,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "1.45 kB",
+      "indexingSpeed" : "3.32 MB/s"
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : "3.8%",
+      "totalNumberOfFiles" : 3,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "1.45 kB",
+      "indexingSpeed" : "5.38 MB/s"
+    }, {
+      "indexId" : "java.fun.expression",
+      "partOfTotalIndexingTime" : "3.3%",
+      "totalNumberOfFiles" : 3,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "1.45 kB",
+      "indexingSpeed" : "6.16 MB/s"
+    }, {
+      "indexId" : "java.binary.plus.expression",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 3,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "1.45 kB",
+      "indexingSpeed" : "25.82 MB/s"
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Refreshed files",
+      "totalNumberOfFiles" : 3,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingTime" : "9 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : "1.45 kB",
+        "partOfTotalIndexingTime" : "100.0%",
+        "partOfTotalContentLoadingTime" : "100.0%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "Stubs",
+        "numberOfFiles" : 3,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "36.0%"
+      }, {
+        "indexId" : "android.ndk.jni.nativemethodindex",
+        "numberOfFiles" : 3,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "29.4%"
+      }, {
+        "indexId" : "java.null.method.argument",
+        "numberOfFiles" : 3,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "13.6%"
+      }, {
+        "indexId" : "TodoIndex",
+        "numberOfFiles" : 3,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "7.1%"
+      }, {
+        "indexId" : "IdIndex",
+        "numberOfFiles" : 3,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "6.2%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "numberOfFiles" : 3,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "3.8%"
+      }, {
+        "indexId" : "java.fun.expression",
+        "numberOfFiles" : 3,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "3.3%"
+      } ],
+      "fastIndexers" : [ "java.binary.plus.expression" ]
+    } ]
+  }
+}

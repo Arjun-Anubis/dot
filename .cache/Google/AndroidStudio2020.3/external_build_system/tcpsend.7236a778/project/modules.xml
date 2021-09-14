@@ -1,0 +1,8 @@
+<project>
+  <component name="ExternalProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TCP_SEND.iml" filepath="$PROJECT_DIR$/.idea/modules/TCP_SEND.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TCP_SEND.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TCP_SEND.app.iml" />
+    </modules>
+  </component>
+</project>

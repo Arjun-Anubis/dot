@@ -1,0 +1,92 @@
+{
+  "Version": "21.04",
+  "OEM": {
+    "Vendor": "Intel(R) Client Systems",
+    "Product": "NUC8i3BEH",
+    "Family": "BE"
+  },
+  "BIOS": {
+    "Vendor": "Intel Corp.",
+    "Version": "BECFL357.86A.0085.2020.1007.1917"
+  },
+  "CPU": {
+    "OpMode": "32-bit, 64-bit",
+    "CPUs": "4",
+    "Threads": "2",
+    "Cores": "2",
+    "Sockets": "1",
+    "Vendor": "GenuineIntel",
+    "Family": "6",
+    "Model": "142",
+    "Stepping": "10",
+    "Name": "Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz",
+    "Virtualization": "VT-x"
+  },
+  "Arch": "amd64",
+  "HwCap": "x86-64-v3",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "3ea5"
+    }
+  ],
+  "RAM": 8,
+  "Disks": [
+    500.1
+  ],
+  "Partitions": [
+    191.2,
+    0.1
+  ],
+  "Screens": [
+    {
+      "Size": "600mmx340mm",
+      "Resolution": "1920x1080",
+      "Frequency": "59.96"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "wayland"
+  },
+  "Language": "en_IN",
+  "Timezone": "Asia/Kolkata",
+  "Install": {
+    "Media": "Ubuntu 21.04 \"Hirsute Hippo\" - Release amd64 (20210420)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "manual",
+    "DownloadUpdates": true,
+    "Language": "en",
+    "Minimal": false,
+    "RestrictedAddons": false,
+    "Stages": {
+      "0": "language",
+      "1": "language",
+      "104": "console_setup",
+      "106": "wireless",
+      "121": "prepare",
+      "134": "partman",
+      "150": "partman",
+      "151": "partman",
+      "152": "partman",
+      "176": "partman",
+      "178": "partman",
+      "202": "partman",
+      "204": "partman",
+      "237": "partman",
+      "240": "partman",
+      "245": "partman",
+      "246": "partman",
+      "251": "partman",
+      "267": "start_install",
+      "275": "timezone",
+      "295": "usersetup",
+      "345": "user_done",
+      "623": "done"
+    }
+  }
+}

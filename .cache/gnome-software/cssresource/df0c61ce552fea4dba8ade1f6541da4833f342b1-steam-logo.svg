@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0beta1 (fe3e306978, 2019-09-17)"
+   sodipodi:docname="steam-logo.svg"
+   id="svg23"
+   version="1.1"
+   height="512"
+   width="512">
+  <metadata
+     id="metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg23"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="3440"
+     inkscape:cy="317.08462"
+     inkscape:cx="303.23116"
+     inkscape:zoom="1.6628058"
+     showgrid="false"
+     id="namedview25"
+     inkscape:window-height="1403"
+     inkscape:window-width="2560"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     inkscape:document-rotation="0"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs17">
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y1="0"
+       gradientTransform="matrix(2.1792745,0,0,2.1816497,2.5101933,2.8331797)"
+       y2="232.875"
+       x1="116.689"
+       x2="116.689"
+       id="a">
+      <stop
+         id="stop2"
+         offset="0"
+         stop-color="#111D2E" />
+      <stop
+         id="stop4"
+         offset=".212"
+         stop-color="#051839" />
+      <stop
+         id="stop6"
+         offset=".407"
+         stop-color="#0A1B48" />
+      <stop
+         id="stop8"
+         offset=".581"
+         stop-color="#132E62" />
+      <stop
+         id="stop10"
+         offset=".738"
+         stop-color="#144B7E" />
+      <stop
+         id="stop12"
+         offset=".873"
+         stop-color="#136497" />
+      <stop
+         id="stop14"
+         offset="1"
+         stop-color="#1387B8" />
+    </linearGradient>
+  </defs>
+  <path
+     style="fill:url(#a);stroke-width:16.9672"
+     inkscape:connector-curvature="0"
+     id="path19"
+     fill="url(#a)"
+     d="m 13.182598,329.92794 c 31.389424,104.68798 128.459102,180.9558 243.361352,180.9558 140.30223,0 254.03376,-113.73153 254.03376,-254.03377 C 510.57771,116.5647 396.84618,2.8331793 256.54395,2.8331793 121.92573,2.8331793 11.757348,107.55509 3.0531453,239.98452 19.511385,267.59023 25.925007,284.65929 13.182598,329.91097 Z" />
+  <path
+     style="stroke-width:16.9672"
+     inkscape:connector-curvature="0"
+     id="path21"
+     fill="#fff"
+     d="m 243.47916,193.22275 v 1.25558 l -62.15106,90.29974 a 69.63362,69.63362 0 0 0 -29.76056,5.25985 69.124602,69.124602 0 0 0 -11.87707,6.2779 L 3.1719164,240.12026 c 0,0 -3.15590976,51.9707 10.0106816,90.68997 L 109.6754,370.6324 a 70.380178,70.380178 0 0 0 133.71892,11.80921 70.753456,70.753456 0 0 0 5.42954,-29.01401 l 88.94234,-63.55935 2.18878,0.0339 c 53.22629,0 96.4928,-43.38528 96.4928,-96.67943 0,-53.27716 -43.26651,-96.645482 -96.4928,-96.645482 -53.20931,0 -96.49279,43.351352 -96.49279,96.645482 z m -14.93118,182.99187 a 54.397024,54.397024 0 0 1 -71.07583,29.31942 54.04071,54.04071 0 0 1 -27.97901,-26.68951 l 31.42334,13.03085 a 40.076658,40.076658 0 0 0 30.77862,-73.97723 l -32.47533,-13.47198 a 54.023742,54.023742 0 0 1 40.07665,0.61081 53.955874,53.955874 0 0 1 29.35336,29.52304 54.176449,54.176449 0 0 1 -0.1018,41.6546 m 111.407,-118.58416 a 64.424672,64.424672 0 0 1 -64.28893,-64.40771 c 0,-35.47852 28.84433,-64.39072 64.28893,-64.39072 35.46158,0 64.30591,28.9122 64.30591,64.39072 0,35.51247 -28.84433,64.40771 -64.30591,64.40771 m -48.17004,-64.50949 a 48.35668,48.35668 0 0 1 48.27185,-48.37366 48.35668,48.35668 0 0 1 48.30578,48.37366 48.339713,48.339713 0 0 1 -48.30578,48.37362 48.322745,48.322745 0 0 1 -48.27185,-48.35665 z" />
+</svg>

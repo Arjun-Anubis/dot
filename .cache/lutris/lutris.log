@@ -1,0 +1,195 @@
+[WARNING:2021-09-01 09:30:32,751:dxvk]: Loading of DXVK versions failed, defaulting to locally available versions
+[WARNING:2021-09-01 09:30:32,759:dxvk]: Loading of DXVK versions failed, defaulting to locally available versions
+[INFO:2021-09-01 09:30:32,895:startup]: Initializing lutris
+[WARNING:2021-09-01 09:30:32,906:dxvk]: Loading of DXVK versions failed, defaulting to locally available versions
+[WARNING:2021-09-01 09:30:32,917:dxvk]: Loading of DXVK versions failed, defaulting to locally available versions
+[INFO:2021-09-01 09:30:33,741:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/ags.png
+[INFO:2021-09-01 09:30:33,749:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/24x24/apps/steam-client.png
+[INFO:2021-09-01 09:30:33,750:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/citra.png
+[INFO:2021-09-01 09:30:33,777:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/desmume.png
+[INFO:2021-09-01 09:30:33,778:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/atari800.png
+[INFO:2021-09-01 09:30:33,778:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/24x24/apps/steam.png
+[INFO:2021-09-01 09:30:33,778:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/24x24/apps/lutris.png
+[INFO:2021-09-01 09:30:33,779:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/browser.png
+[INFO:2021-09-01 09:30:33,889:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/dgen.png
+[INFO:2021-09-01 09:30:33,902:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/dolphin.png
+[INFO:2021-09-01 09:30:33,908:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/dosbox.png
+[INFO:2021-09-01 09:30:33,935:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/gog.png
+[INFO:2021-09-01 09:30:33,944:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/fsuae.png
+[INFO:2021-09-01 09:30:33,947:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/frotz.png
+[INFO:2021-09-01 09:30:33,962:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/gens.png
+[INFO:2021-09-01 09:30:33,965:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/egs.png
+[INFO:2021-09-01 09:30:34,060:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/humblebundle.png
+[INFO:2021-09-01 09:30:34,064:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/higan.png
+[INFO:2021-09-01 09:30:34,073:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/hatari.png
+[INFO:2021-09-01 09:30:34,088:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/libretro.png
+[INFO:2021-09-01 09:30:34,089:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/linux.png
+[INFO:2021-09-01 09:30:34,093:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/jzintv.png
+[INFO:2021-09-01 09:30:34,106:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/mame.png
+[INFO:2021-09-01 09:30:34,136:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/lutris.png
+[INFO:2021-09-01 09:30:34,217:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/mednafen.png
+[INFO:2021-09-01 09:30:34,226:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/o2em.png
+[INFO:2021-09-01 09:30:34,227:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/mupen64plus.png
+[INFO:2021-09-01 09:30:34,247:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/openmsx.png
+[INFO:2021-09-01 09:30:34,247:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/melonds.png
+[INFO:2021-09-01 09:30:34,249:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/osmose.png
+[INFO:2021-09-01 09:30:34,255:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/nulldc.png
+[INFO:2021-09-01 09:30:34,586:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/pcsx2.png
+[INFO:2021-09-01 09:30:34,613:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/residualvm.png
+[INFO:2021-09-01 09:30:34,628:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/rpcs3.png
+[INFO:2021-09-01 09:30:34,667:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/ppsspp.png
+[INFO:2021-09-01 09:30:34,691:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/reicast.png
+[INFO:2021-09-01 09:30:34,693:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/redream.png
+[INFO:2021-09-01 09:30:34,709:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/scummvm.png
+[INFO:2021-09-01 09:30:34,729:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/pico8.png
+[INFO:2021-09-01 09:30:34,983:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/steam.png
+[INFO:2021-09-01 09:30:35,042:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/steam-client.png
+[INFO:2021-09-01 09:30:35,053:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/vice.png
+[INFO:2021-09-01 09:30:35,070:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/snes9x.png
+[INFO:2021-09-01 09:30:35,075:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/virtualjaguar.png
+[INFO:2021-09-01 09:30:35,105:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/stella.png
+[INFO:2021-09-01 09:30:35,163:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/tic80.png
+[INFO:2021-09-01 09:30:35,166:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/web.png
+[INFO:2021-09-01 09:30:35,428:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/wine.png
+[INFO:2021-09-01 09:30:35,478:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/xdg.png
+[INFO:2021-09-01 09:30:35,499:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/winesteam.png
+[INFO:2021-09-01 09:30:35,527:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/yuzu.png
+[INFO:2021-09-01 09:30:35,549:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/zdoom.png
+[INFO:2021-09-01 09:30:35,615:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/scalable/apps/dolphin.svg
+[INFO:2021-09-01 09:30:35,616:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/scalable/apps/dgen.svg
+[INFO:2021-09-01 09:30:35,628:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/scalable/apps/browser.svg
+[INFO:2021-09-01 09:30:35,921:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/scalable/apps/gog.svg
+[INFO:2021-09-01 09:30:35,947:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/scalable/apps/egs.svg
+[INFO:2021-09-01 09:30:35,995:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/scalable/apps/humblebundle.svg
+[INFO:2021-09-01 09:30:36,007:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/scalable/apps/libretro.svg
+[INFO:2021-09-01 09:30:36,041:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/scalable/apps/hatari.svg
+[INFO:2021-09-01 09:30:36,068:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/scalable/apps/lutris.svg
+[INFO:2021-09-01 09:30:36,181:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/scalable/apps/linux.svg
+[INFO:2021-09-01 09:30:36,452:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/scalable/apps/mednafen.svg
+[INFO:2021-09-01 09:30:36,466:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/scalable/apps/ppsspp.svg
+[INFO:2021-09-01 09:30:36,467:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/scalable/apps/mame.svg
+[INFO:2021-09-01 09:30:36,489:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/scalable/apps/mupen64plus.svg
+[INFO:2021-09-01 09:30:36,498:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/scalable/apps/steam.svg
+[INFO:2021-09-01 09:30:36,499:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/scalable/apps/steam-client.svg
+[INFO:2021-09-01 09:30:36,530:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/scalable/apps/scummvm.svg
+[INFO:2021-09-01 09:30:36,637:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/scalable/apps/web.svg
+[INFO:2021-09-01 09:30:36,896:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/scalable/apps/winesteam.svg
+[INFO:2021-09-01 09:30:36,919:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/amiga500-symbolic.svg
+[INFO:2021-09-01 09:30:36,922:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/scalable/apps/xdg.svg
+[INFO:2021-09-01 09:30:36,924:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/ags-symbolic.svg
+[INFO:2021-09-01 09:30:36,963:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/amiga-1200-symbolic.svg
+[INFO:2021-09-01 09:30:37,007:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/amiga500+-symbolic.svg
+[INFO:2021-09-01 09:30:37,103:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/amiga-symbolic.svg
+[INFO:2021-09-01 09:30:37,122:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/scalable/apps/wine.svg
+[INFO:2021-09-01 09:30:37,354:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/atari800-symbolic.svg
+[INFO:2021-09-01 09:30:37,366:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/browser-symbolic.svg
+[INFO:2021-09-01 09:30:37,379:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/arcade-symbolic.svg
+[INFO:2021-09-01 09:30:37,383:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/copyright.old
+[INFO:2021-09-01 09:30:37,393:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/citra-symbolic.svg
+[INFO:2021-09-01 09:30:37,486:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/desmume-symbolic.svg
+[INFO:2021-09-01 09:30:37,546:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/dgen-symbolic.svg
+[INFO:2021-09-01 09:30:37,596:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/dolphin-symbolic.svg
+[INFO:2021-09-01 09:30:37,797:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/favorite-symbolic.svg
+[INFO:2021-09-01 09:30:37,835:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/dosbox-symbolic.svg
+[INFO:2021-09-01 09:30:37,843:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/fsuae-symbolic.svg
+[INFO:2021-09-01 09:30:37,883:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/frotz-symbolic.svg
+[INFO:2021-09-01 09:30:37,890:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/gog-symbolic.svg
+[INFO:2021-09-01 09:30:38,025:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/jzintv-symbolic.svg
+[INFO:2021-09-01 09:30:38,029:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/hatari-symbolic.svg
+[INFO:2021-09-01 09:30:38,046:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/libretro-symbolic.svg
+[INFO:2021-09-01 09:30:38,270:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/linux-symbolic.svg
+[INFO:2021-09-01 09:30:38,286:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/mednafen-symbolic.svg
+[INFO:2021-09-01 09:30:38,317:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/mame-symbolic.svg
+[INFO:2021-09-01 09:30:38,326:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/msx_msx2_msx2+-symbolic.svg
+[INFO:2021-09-01 09:30:38,346:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/ms-dos-symbolic.svg
+[INFO:2021-09-01 09:30:38,490:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/nintendo3ds-symbolic.svg
+[INFO:2021-09-01 09:30:38,497:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/necpc-98-symbolic.svg
+[INFO:2021-09-01 09:30:38,596:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/mupen64plus-symbolic.svg
+[INFO:2021-09-01 09:30:38,697:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/nintendods-symbolic.svg
+[INFO:2021-09-01 09:30:38,753:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/nintendogameboy(color)-symbolic.svg
+[INFO:2021-09-01 09:30:38,766:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/nintendogamecube-symbolic.svg
+[INFO:2021-09-01 09:30:38,786:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/nintendogameboy-symbolic.svg
+[INFO:2021-09-01 09:30:38,831:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/nintendon64-symbolic.svg
+[INFO:2021-09-01 09:30:38,979:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/nintendones-symbolic.svg
+[INFO:2021-09-01 09:30:38,984:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/nintendosnes-symbolic.svg
+[INFO:2021-09-01 09:30:39,045:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/nintendoswitch-symbolic.svg
+[INFO:2021-09-01 09:30:39,169:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/nintendowii-symbolic.svg
+[INFO:2021-09-01 09:30:39,185:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/o2em-symbolic.svg
+[INFO:2021-09-01 09:30:39,216:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/nulldc-symbolic.svg
+[INFO:2021-09-01 09:30:39,251:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/openmsx-symbolic.svg
+[INFO:2021-09-01 09:30:39,285:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/osmose-symbolic.svg
+[INFO:2021-09-01 09:30:39,418:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/pico8-symbolic.svg
+[INFO:2021-09-01 09:30:39,446:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/pcsx2-symbolic.svg
+[INFO:2021-09-01 09:30:39,526:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/ppsspp-symbolic.svg
+[INFO:2021-09-01 09:30:39,617:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/reicast-symbolic.svg
+[INFO:2021-09-01 09:30:39,642:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/residualvm-symbolic.svg
+[INFO:2021-09-01 09:30:39,683:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/rpcs3-symbolic.svg
+[INFO:2021-09-01 09:30:39,696:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/scummvm-symbolic.svg
+[INFO:2021-09-01 09:30:39,768:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/segadreamcast-symbolic.svg
+[INFO:2021-09-01 09:30:39,878:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/segasaturn-symbolic.svg
+[INFO:2021-09-01 09:30:39,929:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/snes9x-symbolic.svg
+[INFO:2021-09-01 09:30:39,983:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/sonyplaystation2-symbolic.svg
+[INFO:2021-09-01 09:30:40,082:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/sonyplaystation3-symbolic.svg
+[INFO:2021-09-01 09:30:40,141:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/sonyplaystationportable-symbolic.svg
+[INFO:2021-09-01 09:30:40,159:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/sonyplaystation-symbolic.svg
+[INFO:2021-09-01 09:30:40,172:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/steam-symbolic.svg
+[INFO:2021-09-01 09:30:40,189:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/stella-symbolic.svg
+[INFO:2021-09-01 09:30:40,293:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/symbols.html
+[INFO:2021-09-01 09:30:40,352:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/system-log-out-symbolic.svg
+[INFO:2021-09-01 09:30:40,437:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/vice-symbolic.svg
+[INFO:2021-09-01 09:30:40,543:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/virtualjaguar-symbolic.svg
+[INFO:2021-09-01 09:30:40,576:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/web-symbolic.svg
+[INFO:2021-09-01 09:30:40,590:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/windows-symbolic.svg
+[INFO:2021-09-01 09:30:40,637:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/winesteam-symbolic.svg
+[INFO:2021-09-01 09:30:40,648:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/wine-symbolic.svg
+[INFO:2021-09-01 09:30:40,746:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/xdg-symbolic.svg
+[INFO:2021-09-01 09:30:40,809:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/yuzu-symbolic.svg
+[INFO:2021-09-01 09:30:40,861:http]: Writing to /home/anubi/.local/share/lutris/runtime/icons/hicolor/symbolic/apps/zdoom-symbolic.svg
+[WARNING:2021-09-01 09:30:40,861:runtime]: Runtime gamecontrollerdb is not available locally
+[WARNING:2021-09-01 09:30:40,862:runtime]: Runtime dumbxinputemu is not available locally
+[WARNING:2021-09-01 09:30:40,863:runtime]: Runtime x360ce is not available locally
+[WARNING:2021-09-01 09:30:40,866:runtime]: Runtime p7zip is not available locally
+[WARNING:2021-09-01 09:30:40,869:runtime]: Runtime lib64 is not available locally
+[WARNING:2021-09-01 09:30:40,870:runtime]: Runtime lib32 is not available locally
+[WARNING:2021-09-01 09:30:40,874:runtime]: Runtime winetricks is not available locally
+[WARNING:2021-09-01 09:30:40,875:runtime]: Runtime innoextract-1.9-linux is not available locally
+[WARNING:2021-09-01 09:30:40,877:runtime]: Runtime Ubuntu-18.04-i686 is not available locally
+[WARNING:2021-09-01 09:30:40,878:runtime]: Runtime Ubuntu-18.04-x86_64 is not available locally
+[WARNING:2021-09-01 09:30:41,364:system]: Non existent path: /home/anubi/.local/share/lutris/runtime/gamecontrollerdb
+[WARNING:2021-09-01 09:30:41,470:system]: Non existent path: /home/anubi/.local/share/lutris/runtime/x360ce
+[WARNING:2021-09-01 09:30:41,584:system]: Non existent path: /home/anubi/.local/share/lutris/runtime/winetricks
+[WARNING:2021-09-01 09:30:42,372:system]: Non existent path: /home/anubi/.local/share/lutris/runtime/dumbxinputemu
+[WARNING:2021-09-01 09:30:42,983:system]: Non existent path: /home/anubi/.local/share/lutris/runtime/p7zip
+[WARNING:2021-09-01 09:30:47,931:system]: Non existent path: /home/anubi/.local/share/lutris/runtime/Ubuntu-18.04-x86_64
+[WARNING:2021-09-01 09:30:48,132:system]: Non existent path: /home/anubi/.local/share/lutris/runtime/innoextract-1.9-linux
+[WARNING:2021-09-01 09:30:52,459:system]: Non existent path: /home/anubi/.local/share/lutris/runtime/Ubuntu-18.04-i686
+[WARNING:2021-09-01 09:30:54,063:system]: Non existent path: /home/anubi/.local/share/lutris/runtime/lib64
+[WARNING:2021-09-01 09:30:54,473:system]: Non existent path: /home/anubi/.local/share/lutris/runtime/lib32
+[INFO:2021-09-01 09:31:01,831:runtime]: Runtime is fully updated.
+[INFO:2021-09-01 09:31:01,902:dxvk]: Downloading DXVK releases to /home/anubi/.local/share/lutris/runtime/dxvk/dxvk_versions.json
+[WARNING:2021-09-01 09:31:02,330:http]: Failed to read response's content length
+[INFO:2021-09-01 09:31:02,370:http]: Writing to /home/anubi/.local/share/lutris/runtime/dxvk/dxvk_versions.json
+[INFO:2021-09-01 09:31:02,371:startup]: DXVK v1.9.1L not available, downloading...
+[INFO:2021-09-01 09:31:04,724:http]: Writing to /home/anubi/.local/share/lutris/runtime/dxvk/dxvk-1.9.1L.tar.gz
+[INFO:2021-09-01 09:31:04,977:startup]: Runtime updated. Initialization complete.
+[INFO:2021-09-01 09:31:04,978:application]: Lutris 0.5.8.3
+[INFO:2021-09-01 09:31:04,978:__init__]: Running migration: mess_to_mame
+[INFO:2021-09-01 09:31:04,979:__init__]: Running migration: migrate_hidden_ids
+[INFO:2021-09-01 09:31:04,980:__init__]: Running migration: migrate_steam_appids
+[INFO:2021-09-01 09:31:04,980:startup]: Running Intel Mesa driver 21.0.3 on Mesa Intel(R) Iris(R) Plus Graphics 655 (CFL GT3) (0x3ea5)
+[INFO:2021-09-01 09:31:04,981:startup]: GPU: 8086:3EA5 8086:2074 (i915 drivers)
+[ERROR:2021-09-01 09:32:17,167:utils]: Unable to find icon '/home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/easyrpg.png'
+[ERROR:2021-09-01 09:32:17,196:utils]: Unable to find icon '/home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/microm8.png'
+[ERROR:2021-09-01 09:32:17,207:utils]: Unable to find icon '/home/anubi/.local/share/lutris/runtime/icons/hicolor/64x64/apps/pcem.png'
+[INFO:2021-09-01 09:32:37,714:http]: Writing to /home/anubi/.local/share/lutris/banners/alien-skin-exposure-x4.jpg
+[INFO:2021-09-01 09:32:37,734:http]: Writing to /home/anubi/.local/share/lutris/banners/audiosurf.jpg
+[INFO:2021-09-01 09:32:37,794:http]: Writing to /home/anubi/.local/share/lutris/banners/audiosurf-2.jpg
+[INFO:2021-09-01 09:32:38,024:http]: Writing to /home/anubi/.local/share/lutris/banners/biosupremacy.jpg
+[INFO:2021-09-01 09:32:38,051:http]: Writing to /home/anubi/.local/share/lutris/banners/closure.jpg
+[INFO:2021-09-01 09:32:38,093:http]: Writing to /home/anubi/.local/share/lutris/banners/intensive-exposure.jpg
+[INFO:2021-09-01 09:32:38,356:http]: Writing to /home/anubi/.local/share/lutris/banners/laid-back-camp-virtual-lake-motosu.jpg
+[INFO:2021-09-01 09:32:38,374:http]: Writing to /home/anubi/.local/share/lutris/banners/mcosu.jpg
+[INFO:2021-09-01 09:32:38,424:http]: Writing to /home/anubi/.local/share/lutris/banners/osu.jpg
+[INFO:2021-09-01 09:32:38,682:http]: Writing to /home/anubi/.local/share/lutris/banners/torimodosu.jpg
+[INFO:2021-09-01 09:32:38,695:http]: Writing to /home/anubi/.local/share/lutris/banners/yosumin.jpg
+[INFO:2021-09-01 09:47:40,146:application]: Shutting down Lutris

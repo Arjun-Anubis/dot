@@ -1,0 +1,9 @@
+usb-creator 2021-07-21 15:34:31,015 (DEBUG) backend.py:26: UDisks2Backend
+usb-creator 2021-07-21 15:34:31,121 (DEBUG) backend.py:22: Backend told to add: /home/anubi/Downloads/alpine-extended-3.14.0-x86_64.iso
+usb-creator 2021-07-21 15:34:31,121 (DEBUG) misc.py:115: ['isoinfo', '-J', '-i', '/home/anubi/Downloads/alpine-extended-3.14.0-x86_64.iso', '-x', '/.disk/info']
+usb-creator 2021-07-21 15:34:31,129 (DEBUG) misc.py:115: ['isoinfo', '-J', '-i', '/home/anubi/Downloads/alpine-extended-3.14.0-x86_64.iso', '-x', '/.disk/mini-info']
+usb-creator 2021-07-21 15:34:31,132 (DEBUG) backend.py:22: Backend told to add: /home/anubi/Downloads/archlinux-2021.06.01-x86_64.iso
+usb-creator 2021-07-21 15:34:31,132 (DEBUG) misc.py:115: ['isoinfo', '-J', '-i', '/home/anubi/Downloads/archlinux-2021.06.01-x86_64.iso', '-x', '/.disk/info']
+usb-creator 2021-07-21 15:34:31,135 (DEBUG) misc.py:115: ['isoinfo', '-J', '-i', '/home/anubi/Downloads/archlinux-2021.06.01-x86_64.iso', '-x', '/.disk/mini-info']
+usb-creator 2021-07-21 15:34:31,180 (DEBUG) backend.py:66: detect_devices
+usb-creator 2021-07-21 15:34:32,422 (DEBUG) backend.py:181: cancel_install
